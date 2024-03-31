@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; /* Default background color for all pages */
+}
+
+.home-page {
+    background-color: #673ab7; /* Deep purple background only for home page */
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #673ab7;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #9575cd;
+}
+
+.content {
+    padding: 50px 120px;
+    color: white;
+}
+
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.home-row {
+    display: flex;
+    align-items: center;
+}
+
+.home-column {
+    flex: 1;
+    padding: 10px;
+}
+
+.home-image {
+    max-width: 100%;
+    border-radius: 20px;
+}
+
+.download-buttons {
+    margin-top: 20px;
+}
+
+.download-button {
+    display: inline-block;
+    background-color: #000000;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 30px;
+}
+
+.download-button:hover {
+    background-color: #444444;
+}
+
+/* For non-home pages, you might want to adjust text color if the background is white */
+body:not(.home-page) .content {
+    color: black; /* Ensures readable text on white background */
+}
