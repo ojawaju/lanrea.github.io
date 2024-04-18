@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ojawaju.app",
+    "sha256_cert_fingerprints":
+    ["5C:EF:6D:3B:BE:C8:52:EE:DE:40:E5:CC:D1:06:67:42:4B:3B:C6:F5:FF:AE:F3:AC:BD:8E:67:20:B8:6F:DC:1C"]
+  }
+}]
