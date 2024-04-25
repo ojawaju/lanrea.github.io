@@ -1,19 +1,20 @@
 // scripts.js
-document.addEventListener("DOMContentLoaded", () => {
-    const tabs = document.querySelectorAll(".tab-link");
-    const contents = document.querySelectorAll(".tab-content");
+// Import the express and path libraries
+const express = require('express');
+const path = require('path');
 
-    tabs.forEach(tab => {
-        tab.addEventListener("click", () => {
-            const target = document.querySelector(`#${tab.dataset.tab}`);
+// Create an express application
+const app = express();
 
-            // Remove current class from all tabs and contents
-            tabs.forEach(t => t.classList.remove("current"));
-            contents.forEach(c => c.classList.remove("current"));
+// Serve static files from the current directory
+app.use(express.static(__dirname));
 
-            // Add current class to clicked tab and corresponding content
-            tab.classList.add("current");
-            target.classList.add("current");
-        });
-    });
+// Always serve the index.html file for any GET request
+app.get('*', (req, res) => {
+    res.sendFile(path.resolve(__dirname, 'index.html'));
+});
+
+// Start the server
+app.listen(3000, () => {
+    console.log('Server is running on port 3000');
 });
