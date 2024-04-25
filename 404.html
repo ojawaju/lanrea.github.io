@@ -7,24 +7,32 @@
     <title>Redirecting...</title>
     <link rel="icon" type="image/png" href="assets/favicon.png">
     <link rel="stylesheet" href="styles.css">
-    <script src="script.js"></script>
     <script type="text/javascript">
         document.addEventListener('DOMContentLoaded', function() {
             var urlPath = window.location.pathname;
-            
-            // Check if the URL path starts with /event/ and has an event ID
-            if (/^\/event\/[a-zA-Z0-9]+$/.test(urlPath)) {
-                // Redirect to a specific landing page for the event
-                // window.location.href = 'index.html';
-            } else {
-                // Page not found
-                // window.location.href = 'index.html';
-            }
+
+            // Redirect based on the URL path after a 1-minute delay
+            setTimeout(function() {
+                window.location.href = 'index.html';
+            }, 20000); // 20 seconds equals 20000 milliseconds
         });
     </script>
 </head>
-<body>
-    <h1>Redirecting...</h1>
-    <p>If you are not redirected automatically, please click <a href="index.html">here</a>.</p>
+<body class="home-page">
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="terms.html">Terms</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="content">
+        <h1>Redirecting...</h1>
+        <p>If you are on a mobile phone and have pasted a link intended for an app, please watch for a popup or a banner at the top of your screen prompting you to open the app. This will provide the best experience and direct access to the content you are looking for.</p>
+        <p>If you are not redirected automatically, or if no popup appears, please click <a href="index.html">here</a> to return to the homepage.</p>
+    </div>
 </body>
 </html>
