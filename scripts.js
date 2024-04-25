@@ -1,20 +1,24 @@
-// scripts.js
-// Import the express and path libraries
-const express = require('express');
-const path = require('path');
+document.addEventListener("DOMContentLoaded", function() {
+    // Function to handle the deep link attempt
+    function tryDeepLink(deepLink) {
+        var iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        iframe.src = deepLink;
+        document.body.appendChild(iframe);
 
-// Create an express application
-const app = express();
+        // Wait for a moment to check if the app can handle the deep link
+        setTimeout(function() {
+            // Redirect to a fallback page if the app is not installed
+            window.location.href = '/download.html'; // Update '/download.html' to the URL of your download page
+        }, 2500); // Adjust time as needed
+    }
 
-// Serve static files from the current directory
-app.use(express.static(__dirname));
+    // Detect user's device and set appropriate deep link
+    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
 
-// Always serve the index.html file for any GET request
-app.get('*', (req, res) => {
-    res.sendFile(path.resolve(__dirname, 'index.html'));
-});
-
-// Start the server
-app.listen(3000, () => {
-    console.log('Server is running on port 3000');
+    if (/android/i.test(userAgent)) {
+        tryDeepLink('intent://view#Intent;scheme=ojawaju;package=com.ojawaju.app;end');
+    } else if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+        tryDeepLink('ojawaju://');
+    }
 });
