@@ -12,16 +12,16 @@
             // Check if the URL path starts with /event/ and has an event ID
             if (/^\/event\/[a-zA-Z0-9]+$/.test(urlPath)) {
                 // Redirect to a specific landing page for the event
-                window.location.href = '/index.html';
+                window.location.href = 'index.html';
             } else {
                 // Page not found
-                window.location.href = '/index.html';
+                window.location.href = 'index.html';
             }
         });
     </script>
 </head>
 <body>
     <h1>Redirecting...</h1>
-    <p>If you are not redirected automatically, please click <a href="/index.html">here</a>.</p>
+    <p>If you are not redirected automatically, please click <a href="index.html">here</a>.</p>
 </body>
 </html>
