@@ -1,84 +1,97 @@
+/* Main container styles */
 body {
+    margin: 0;
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #ffffff; /* Default background color for all pages */
-}
-
-.home-page {
-    background-color: #673ab7; /* Deep purple background only for home page */
-}
-
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #673ab7;
-}
-
-nav ul li {
-    float: left;
-}
-
-nav ul li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-nav ul li a:hover {
-    background-color: #9575cd;
-}
-
-.content {
-    padding: 50px 120px;
-    color: white;
-}
-
-.home-container {
+    scroll-behavior: smooth;
+    background-color: #FFF;
+  }
+  
+  .main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  
+  /* Navigation styling */
+  nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #FFF;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 10;
+  }
+  
+  nav ul {
     display: flex;
     justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-}
-
-.home-row {
-    display: flex;
-    align-items: center;
-}
-
-.home-column {
-    flex: 1;
-    padding: 10px;
-}
-
-.home-image {
-    max-width: 100%;
-    border-radius: 20px;
-}
-
-.download-buttons {
-    margin-top: 20px;
-}
-
-.download-button {
-    display: inline-block;
-    background-color: #000000;
-    color: #ffffff;
+    list-style: none;
+    padding: 1rem;
+    margin: 0;
+  }
+  
+  nav ul li {
+    margin: 0 1rem;
+  }
+  
+  nav ul li a {
     text-decoration: none;
-    padding: 10px 20px;
-    margin: 5px;
-    border-radius: 30px;
-}
-
-.download-button:hover {
-    background-color: #444444;
-}
-
-/* For non-home pages, you might want to adjust text color if the background is white */
-body:not(.home-page) .content {
-    color: black; /* Ensures readable text on white background */
-}
+    color: #333;
+    font-weight: bold;
+  }
+  
+  /* Active link styling */
+  nav ul li a.active {
+    color: #00BFFF; /* Highlight color for active link */
+  }
+  
+  /* Section styling */
+  .content-section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+    min-height: 100vh;
+    padding: 2rem;
+    box-sizing: border-box;
+  }
+  
+  #about-us {
+    background-color: #f3f4f6; /* Light background for each section */
+  }
+  
+  #features {
+    background-color: #e9f5e1;
+  }
+  
+  #testimonials {
+    background-color: #f4f1f8;
+  }
+  
+  #newsletter {
+    background-color: #e1f5f7;
+  }
+  
+  /* Responsive styling */
+  @media (max-width: 1440px) {
+    .main-container {
+      padding: 0 1rem;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    nav ul {
+      flex-direction: column;
+    }
+    nav ul li {
+      margin: 0.5rem 0;
+    }
+    .content-section {
+      padding: 1rem;
+    }
+  }

@@ -1,0 +1,7009 @@
+.background-pattern-icon {
+  position: absolute;
+  top: -281px;
+  left: -163px;
+  width: 1758.3px;
+  height: 1726.3px;
+}
+.frame-child {
+  position: absolute;
+  top: 96.19px;
+  left: calc(50% + 299.19px);
+  border-radius: 57.71px;
+  width: 296.2px;
+  height: 296.2px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.frame-item {
+  position: absolute;
+  top: 38.47px;
+  left: calc(50% + 97.2px);
+  border-radius: 57.71px;
+  width: 298.2px;
+  height: 298.2px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.frame-inner {
+  position: absolute;
+  top: 101.57px;
+  left: calc(50% - 595.35px);
+  border-radius: 57.71px;
+  width: 296.2px;
+  height: 296.2px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.frame-icon {
+  position: absolute;
+  top: 43.29px;
+  left: calc(50% - 388.55px);
+  border-radius: 57.71px;
+  width: 298.2px;
+  height: 298.2px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.frame-child1 {
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 157.7px);
+  border-radius: 57.71px;
+  width: 307.8px;
+  height: 307.8px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-parent {
+  position: absolute;
+  top: 554px;
+  left: calc(50% - 595px);
+  width: 1190.7px;
+  height: 402px;
+}
+.content-child {
+  width: 89.3px;
+  position: relative;
+  height: 46px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.label {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.nav-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: #01cd22;
+}
+.nav-item1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.links {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.label5 {
+  position: relative;
+  line-height: 20px;
+}
+.label-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 8px;
+}
+.button-primary {
+  box-shadow: 0px 0px 0px 1px #34d74e;
+  border-radius: 40px;
+  background-color: #01cd22;
+  border: 1px solid #ccf5d3;
+  box-sizing: border-box;
+  height: 48px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 12px;
+}
+.button-primary-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 20px;
+  font-size: 14px;
+  color: #fff;
+}
+.content {
+  width: 970px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.header {
+  position: absolute;
+  top: 70px;
+  left: calc(50% - 494px);
+  box-shadow: 0px 5px 16px -5px rgba(16, 25, 40, 0.05), 0px 2px 4px -1px rgba(16, 25, 40, 0.02);
+  border-radius: 80px;
+  background-color: #fff;
+  height: 60px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 8px 0px 10px;
+  box-sizing: border-box;
+}
+.rediscover-your-heritage {
+  align-self: stretch;
+  position: relative;
+  line-height: 64px;
+}
+.ojawaju-is-the {
+  width: 681px;
+  position: relative;
+  font-size: 18px;
+  line-height: 26px;
+  font-family: Satoshi;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rediscover-your-heritage-righ-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.button-primary2 {
+  box-shadow: 0px 0px 0px 1px #34d74e;
+  border-radius: 40px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  height: 48px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 12px;
+}
+.button-primary-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+  font-size: 14px;
+  color: #01cd22;
+  font-family: Satoshi;
+}
+.frame-group {
+  position: absolute;
+  top: 177px;
+  left: calc(50% - 437px);
+  width: 873px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 40px;
+  font-size: 52px;
+  color: #fff;
+  font-family: 'Bricolage Grotesque';
+}
+.background-pattern-parent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: linear-gradient(rgba(0, 0, 0, 0.12), rgba(0, 0, 0, 0.12)), #01cd22;
+  width: 1440px;
+  height: 969px;
+  overflow: hidden;
+  font-size: 16px;
+  font-family: Satoshi;
+}
+.ellipse-div {
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 600px);
+  border-radius: 50%;
+  background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0.18), rgba(204, 224, 255, 0.01));
+  border: 1px solid rgba(153, 235, 167, 0.99);
+  box-sizing: border-box;
+  width: 1200px;
+  height: 1200px;
+}
+.frame-child2 {
+  position: absolute;
+  top: 182px;
+  left: calc(50% - 441px);
+  border-radius: 50%;
+  background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0.18), rgba(204, 224, 255, 0.01));
+  border: 1px solid rgba(153, 235, 167, 0);
+  box-sizing: border-box;
+  width: 882px;
+  height: 970px;
+}
+.frame-child3 {
+  position: absolute;
+  top: 347px;
+  left: calc(50% - 285px);
+  border-radius: 50%;
+  background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0.18), rgba(204, 224, 255, 0.01));
+  border: 1px solid rgba(153, 235, 167, 0);
+  box-sizing: border-box;
+  width: 569px;
+  height: 585px;
+}
+.star-icon {
+  position: absolute;
+  top: 8px;
+  left: 217px;
+  width: 14px;
+  height: 14px;
+}
+.frame-child4 {
+  position: absolute;
+  top: -6px;
+  left: 942px;
+  width: 14px;
+  height: 14px;
+}
+.frame-child5 {
+  position: absolute;
+  top: 407px;
+  left: 1148px;
+  width: 14px;
+  height: 14px;
+}
+.frame-child6 {
+  position: absolute;
+  top: 229px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+}
+.frame-child7 {
+  position: absolute;
+  top: 564px;
+  left: 575px;
+  width: 14px;
+  height: 14px;
+}
+.frame-child8 {
+  position: absolute;
+  top: 150px;
+  left: 152px;
+  width: 10px;
+  height: 10px;
+}
+.frame-child9 {
+  position: absolute;
+  top: 82px;
+  left: 1155px;
+  width: 14px;
+  height: 14px;
+}
+.frame-child10 {
+  position: absolute;
+  top: -6px;
+  left: 1124px;
+  width: 10px;
+  height: 10px;
+}
+.frame-child11 {
+  position: absolute;
+  top: 357px;
+  left: 1023px;
+  width: 10px;
+  height: 10px;
+}
+.frame-child12 {
+  position: absolute;
+  top: 333px;
+  left: 173px;
+  width: 14px;
+  height: 14px;
+}
+.frame-child13 {
+  position: absolute;
+  top: 433px;
+  left: 834px;
+  width: 10px;
+  height: 10px;
+}
+.frame-child14 {
+  position: absolute;
+  top: 406px;
+  left: 659px;
+  width: 10px;
+  height: 10px;
+}
+.frame-child15 {
+  position: absolute;
+  top: 500px;
+  left: 994px;
+  width: 14px;
+  height: 14px;
+}
+.frame-child16 {
+  position: absolute;
+  top: 526px;
+  left: 844px;
+  width: 14px;
+  height: 14px;
+}
+.frame-child17 {
+  position: absolute;
+  top: 480px;
+  left: 439px;
+  width: 10px;
+  height: 10px;
+}
+.subscribe-to-newsletter {
+  align-self: stretch;
+  position: relative;
+  line-height: 52px;
+}
+.dont-miss-out {
+  align-self: stretch;
+  position: relative;
+  font-size: 20px;
+  line-height: 28px;
+}
+.subscribe-to-newsletter-today-parent {
+  width: 630px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.frame-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.button-primary4 {
+  width: 126px;
+  box-shadow: 0px 0px 0px 1px #34d74e;
+  border-radius: 40px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  height: 48px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 12px;
+  font-size: 16px;
+  color: #01cd22;
+}
+.frame-container {
+  position: absolute;
+  top: 253px;
+  left: 237px;
+  width: 726px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.frame-child18 {
+  position: absolute;
+  top: 182px;
+  left: 1095px;
+  width: 10px;
+  height: 10px;
+}
+.vector-icon {
+  position: absolute;
+  top: 130.75px;
+  left: -79.93px;
+  width: 159.3px;
+  height: 103.3px;
+  object-fit: contain;
+}
+.frame-child19 {
+  position: absolute;
+  top: 459px;
+  left: 49px;
+  width: 60px;
+  height: 60px;
+}
+.frame-child20 {
+  position: absolute;
+  top: 412px;
+  left: 1088px;
+  width: 60px;
+  height: 60px;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 49px;
+  left: 120px;
+  width: 1200px;
+  height: 1200px;
+}
+.link-and-sync-child {
+  position: absolute;
+  top: 41px;
+  left: 1297px;
+  width: 60px;
+  height: 60px;
+}
+.link-and-sync-item {
+  position: absolute;
+  top: 131px;
+  left: 1297px;
+  width: 108px;
+  height: 75px;
+}
+.link-and-sync-inner {
+  position: absolute;
+  top: 287px;
+  left: 1343px;
+  width: 14px;
+  height: 14px;
+}
+.link-and-sync-child1 {
+  position: absolute;
+  top: 20px;
+  left: 569px;
+  width: 14px;
+  height: 14px;
+}
+.link-and-sync-child2 {
+  position: absolute;
+  top: 71px;
+  left: calc(50% - 345px);
+  width: 690.1px;
+  height: 254.4px;
+}
+.link-and-sync-child3 {
+  position: absolute;
+  top: 422px;
+  left: 60px;
+  width: 14px;
+  height: 14px;
+}
+.link-and-sync-child4 {
+  position: absolute;
+  top: 524px;
+  left: 117px;
+  width: 14px;
+  height: 14px;
+}
+.link-and-sync-child5 {
+  position: absolute;
+  top: 117px;
+  left: 67px;
+  width: 14px;
+  height: 14px;
+}
+.link-and-sync-child6 {
+  position: absolute;
+  top: 579px;
+  left: 1357px;
+  width: 10px;
+  height: 10px;
+}
+.link-and-sync {
+  position: absolute;
+  top: 4219px;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 641px;
+  overflow: hidden;
+  background-image: url('Link and sync.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-size: 40px;
+  color: #fff;
+  font-family: Satoshi;
+}
+.features {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 36px;
+  font-weight: 600;
+}
+.mockup-icon {
+  position: absolute;
+  top: 201px;
+  left: calc(50% - 173px);
+  width: 346.4px;
+  height: 704.7px;
+}
+.events {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 32px;
+  font-weight: 500;
+}
+.events-parent {
+  position: absolute;
+  top: 22px;
+  left: calc(50% - 264px);
+  width: 529px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.component-1 {
+  width: 590px;
+  position: relative;
+  border-radius: 32px;
+  background-color: #fff;
+  height: 566px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ojawaju-is-your {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Satoshi;
+  color: #455152;
+}
+.component-1-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 60px;
+}
+.frame-parent1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1240px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.frame-div {
+  width: 1240px;
+  position: relative;
+  height: 819.3px;
+  overflow-y: auto;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 28px;
+  color: #343d3e;
+}
+.features-parent {
+  position: absolute;
+  top: calc(50% - 448px);
+  left: calc(50% - 619.61px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.landing-page-v2-inner {
+  position: absolute;
+  top: 1740px;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+  background-image: url('Frame 2147223482.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  color: #fff;
+}
+.mask-group-icon {
+  position: absolute;
+  top: 229px;
+  left: 362px;
+  width: 746px;
+  height: 757px;
+}
+.desktop-50-child {
+  position: absolute;
+  top: -279.87px;
+  left: -625.91px;
+  width: 1986.3px;
+  height: 2031.4px;
+  object-fit: contain;
+}
+.desktop-50-item {
+  position: absolute;
+  top: -99px;
+  left: 64px;
+  width: 733.7px;
+  height: 637.2px;
+  object-fit: contain;
+}
+.desktop-50 {
+  position: absolute;
+  top: calc(50% - 42.5px);
+  left: calc(50% - 504px);
+  filter: blur(308px);
+  background: radial-gradient(50% 50% at 50% 50%, #01cd22, #f8e5ff);
+  width: 572px;
+  height: 445px;
+  overflow: hidden;
+}
+.desktop-51 {
+  position: absolute;
+  top: calc(50% - 402.5px);
+  left: calc(50% - 68px);
+  filter: blur(308px);
+  background: radial-gradient(50% 50% at 50% 50%, #01cd22, #f8e5ff);
+  width: 572px;
+  height: 445px;
+  overflow: hidden;
+}
+.desktop-50-parent {
+  position: absolute;
+  top: -105px;
+  left: 567px;
+  filter: blur(180px);
+  width: 1008px;
+  height: 805px;
+}
+.desktop-50-group {
+  position: absolute;
+  top: 672px;
+  left: -190px;
+  filter: blur(644px);
+  width: 1008px;
+  height: 805px;
+}
+.testimonials {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 36px;
+  font-weight: 600;
+}
+.eh9ptiw8fydbcf5h3qvtepbajpeg-icon {
+  flex: 1;
+  position: relative;
+  border-radius: 48px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 48px;
+  object-fit: cover;
+}
+.divframer-h82xxf {
+  width: 48px;
+  border-radius: 48px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.adeniran-adetunji {
+  position: relative;
+  line-height: 24px;
+}
+.span {
+  width: 85.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-udfnpm {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.span1 {
+  width: 56.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-sw62b4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  color: #758183;
+}
+.divframer-1315srk {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-l83rbx {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.svg-1193509900-1112-icon {
+  width: 22px;
+  position: relative;
+  height: 22px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame {
+  width: 22px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.svg {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.divframer-23ko57 {
+  width: 22px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  opacity: 0;
+}
+.divframer-1v6jaij {
+  width: 298px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.ive-found-a {
+  width: 290px;
+  position: relative;
+  line-height: 24px;
+  color: #566567;
+  display: flex;
+  align-items: center;
+  height: 154px;
+  flex-shrink: 0;
+}
+.divframer-t6bjlk {
+  width: 346px;
+  border-radius: 32px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24px;
+  box-sizing: border-box;
+  gap: 16px;
+}
+.divframer-1p3dbrp-container {
+  width: 346px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.span2 {
+  width: 47.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-udfnpm1 {
+  width: 47.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.span3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-sw62b41 {
+  width: 91.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  color: #758183;
+}
+.pframer-text {
+  position: absolute;
+  height: calc(100% - 1px);
+  width: 100%;
+  top: 0px;
+  right: 0px;
+  bottom: 1px;
+  left: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 125px 0.6px 0px;
+  box-sizing: border-box;
+}
+.divframer-1hvc301 {
+  width: 290px;
+  position: relative;
+  height: 25.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+  color: #566567;
+}
+.span4 {
+  width: 114.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-udfnpm2 {
+  width: 114.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.span5 {
+  width: 64.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-sw62b42 {
+  width: 64.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  color: #758183;
+}
+.divframer-1315srk2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-l83rbx2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.ive-found-some {
+  margin: 0;
+}
+.ive-found-some-container {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.pframer-text1 {
+  width: 298px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0.4px;
+  box-sizing: border-box;
+  color: #566567;
+}
+.divframer-t6bjlk2 {
+  width: 346px;
+  border-radius: 32px;
+  background-color: #fff;
+  height: 316px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24px;
+  box-sizing: border-box;
+  gap: 16px;
+}
+.divframer-1gezwvf-container {
+  width: 346px;
+  height: 316px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: #343d3e;
+}
+.span6 {
+  width: 118.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.span7 {
+  width: 121.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pframer-text2 {
+  width: 290px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 13px 0.4px 0px;
+  box-sizing: border-box;
+  color: #566567;
+}
+.span8 {
+  width: 100.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-udfnpm4 {
+  width: 100.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.span9 {
+  width: 140.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-sw62b44 {
+  width: 140.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  color: #758183;
+}
+.ive-never-felt {
+  width: 290px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pframer-text3 {
+  width: 290px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 23px 1.2px 0px;
+  box-sizing: border-box;
+  color: #566567;
+}
+.divframer-1bohcbh-container {
+  width: 346px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: #343d3e;
+}
+.divframer-f8vz9g {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  color: #222;
+}
+.divframer-h82xxf5 {
+  width: 48px;
+  border-radius: 48px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background-image: url('div.framer-h82xxf.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.span10 {
+  width: 91.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pframer-text4 {
+  width: 290px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 83px 0.6px 0px;
+  box-sizing: border-box;
+  color: #566567;
+}
+.divframer-1cismw5-container {
+  position: absolute;
+  height: calc(100% - 1020.4px);
+  top: 3.5px;
+  bottom: 1016.9px;
+  left: calc(50% - 174px);
+  width: 346px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.span12 {
+  width: 125.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-udfnpm6 {
+  width: 125.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.span13 {
+  width: 98px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-sw62b46 {
+  width: 98px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  color: #758183;
+}
+.pframer-text5 {
+  position: absolute;
+  height: calc(100% - 7px);
+  width: 100%;
+  top: 0px;
+  right: 0px;
+  bottom: 7px;
+  left: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 3px 1px 0px;
+  box-sizing: border-box;
+}
+.divframer-1hvc3011 {
+  width: 290px;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  color: #566567;
+}
+.divframer-t6bjlk6 {
+  width: 346px;
+  border-radius: 32px;
+  background-color: #fff;
+  height: 240px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24px;
+  box-sizing: border-box;
+  gap: 16px;
+}
+.divframer-gr3iiu-container {
+  position: absolute;
+  height: calc(100% - 989px);
+  top: 232px;
+  bottom: 757px;
+  left: calc(50% - 171px);
+  width: 346px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-j8cj6b-container-icon {
+  position: absolute;
+  height: calc(100% - 987.9px);
+  top: 493px;
+  bottom: 494.9px;
+  left: calc(50% - 175.29px);
+  max-height: 100%;
+  width: 350.9px;
+  object-fit: contain;
+}
+.span14 {
+  width: 83.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.span15 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-ltj415-container {
+  position: absolute;
+  top: calc(50% + 156.31px);
+  left: calc(50% - 170px);
+  width: 346px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-1otp9o0 {
+  width: 346px;
+  position: relative;
+  height: 1229px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.kemi-funsho {
+  position: relative;
+  line-height: 24px;
+  white-space: pre-wrap;
+}
+.span16 {
+  width: 35.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-udfnpm8 {
+  width: 35.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.span17 {
+  width: 119px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-sw62b48 {
+  width: 119px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  color: #758183;
+}
+.pframer-text7 {
+  width: 290px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 14px 1.2px 0px;
+  box-sizing: border-box;
+  color: #566567;
+}
+.divframer-185m5bi-container {
+  position: absolute;
+  height: calc(100% - 1108.8px);
+  top: 15.5px;
+  bottom: 1093.3px;
+  left: calc(50% - 173px);
+  width: 346px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.span18 {
+  width: 87.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-udfnpm9 {
+  width: 87.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.span19 {
+  width: 97.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-sw62b49 {
+  width: 97.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  color: #758183;
+}
+.pframer-text8 {
+  position: absolute;
+  height: calc(100% - 5.6px);
+  width: 100%;
+  top: 2.5px;
+  right: 0px;
+  bottom: 3.1px;
+  left: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0.4px;
+  box-sizing: border-box;
+}
+.divframer-1hvc3012 {
+  width: 298px;
+  position: relative;
+  height: 102px;
+  overflow: hidden;
+  flex-shrink: 0;
+  color: #566567;
+}
+.divframer-zpld2d-container {
+  position: absolute;
+  height: calc(100% - 1080px);
+  top: 231px;
+  bottom: 849px;
+  left: calc(50% - 177.11px);
+  width: 346px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.span20 {
+  width: 136.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-udfnpm10 {
+  width: 136.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.span21 {
+  width: 139.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-sw62b410 {
+  width: 139.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  color: #758183;
+}
+.pframer-text9 {
+  position: absolute;
+  height: calc(100% - 4px);
+  width: 100%;
+  top: 1.5px;
+  right: 0px;
+  bottom: 2.5px;
+  left: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 49px 0.8px 0px;
+  box-sizing: border-box;
+}
+.divframer-1hvc3013 {
+  width: 290px;
+  position: relative;
+  height: 76.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+  color: #566567;
+}
+.divframer-sxye1x-container {
+  position: absolute;
+  height: calc(100% - 1105.2px);
+  top: 461.18px;
+  bottom: 644.02px;
+  left: calc(50% - 177.11px);
+  width: 346px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-1u6mqmy-container-icon {
+  position: absolute;
+  height: calc(100% - 887.3px);
+  top: 657.78px;
+  bottom: 229.52px;
+  left: calc(50% - 182px);
+  max-height: 100%;
+  width: 355.8px;
+  object-fit: contain;
+}
+.span22 {
+  width: 96.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.id-recomment-ojawaju {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  line-height: 24px;
+}
+.divframer-1hvc3014 {
+  align-self: stretch;
+  position: relative;
+  height: 25.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+  color: #566567;
+}
+.divframer-1gj3dqd-container {
+  position: absolute;
+  height: calc(100% - 1156.4px);
+  top: 1072.31px;
+  bottom: 84.09px;
+  left: calc(50% - 177.11px);
+  width: 346px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-sc8ztn {
+  width: 346px;
+  position: relative;
+  height: 1294px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.divframer-w4oopl {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 16px;
+  font-family: Satoshi;
+}
+.testimonials-parent {
+  position: absolute;
+  top: 63px;
+  left: calc(50% - 535px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.testimonial {
+  position: absolute;
+  top: 2764px;
+  left: calc(50% - 720px);
+  background-color: #fff;
+  width: 1440px;
+  height: 1455px;
+  overflow: hidden;
+  text-align: left;
+}
+.at-ojawaju-we {
+  align-self: stretch;
+  position: relative;
+  font-size: 18px;
+  line-height: 28px;
+  font-family: Satoshi;
+}
+.about-us-parent {
+  width: 793px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.icon {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 99.54%;
+  bottom: 99.53%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon1 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 4.98%;
+  right: 99.54%;
+  bottom: 94.55%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon2 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 9.95%;
+  right: 99.54%;
+  bottom: 89.57%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon3 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 14.93%;
+  right: 99.54%;
+  bottom: 84.6%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon4 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 19.91%;
+  right: 99.54%;
+  bottom: 79.62%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon5 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 24.88%;
+  right: 99.54%;
+  bottom: 74.64%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon6 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 29.86%;
+  right: 99.54%;
+  bottom: 69.66%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon7 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 34.84%;
+  right: 99.54%;
+  bottom: 64.69%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon8 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 39.81%;
+  right: 99.54%;
+  bottom: 59.71%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon9 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 44.79%;
+  right: 99.54%;
+  bottom: 54.73%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon10 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 49.77%;
+  right: 99.54%;
+  bottom: 49.76%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon11 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 54.75%;
+  right: 99.54%;
+  bottom: 44.78%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon12 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 59.72%;
+  right: 99.54%;
+  bottom: 39.8%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon13 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 64.7%;
+  right: 99.54%;
+  bottom: 34.83%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon14 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 69.68%;
+  right: 99.54%;
+  bottom: 29.85%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon15 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 74.65%;
+  right: 99.54%;
+  bottom: 24.87%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon16 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 79.63%;
+  right: 99.54%;
+  bottom: 19.9%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon17 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 84.61%;
+  right: 99.54%;
+  bottom: 14.92%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon18 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 89.58%;
+  right: 99.54%;
+  bottom: 9.94%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon19 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 94.56%;
+  right: 99.54%;
+  bottom: 4.97%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon20 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 99.54%;
+  bottom: -0.01%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon21 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 94.56%;
+  bottom: 99.53%;
+  left: 4.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon22 {
+  position: absolute;
+  height: 0.5%;
+  width: 0.51%;
+  top: 4.96%;
+  right: 94.53%;
+  bottom: 94.55%;
+  left: 4.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon23 {
+  position: absolute;
+  height: 0.55%;
+  width: 0.55%;
+  top: 9.91%;
+  right: 94.52%;
+  bottom: 89.54%;
+  left: 4.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon24 {
+  position: absolute;
+  height: 0.59%;
+  width: 0.6%;
+  top: 14.87%;
+  right: 94.48%;
+  bottom: 84.54%;
+  left: 4.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon25 {
+  position: absolute;
+  height: 0.64%;
+  width: 0.65%;
+  top: 19.82%;
+  right: 94.45%;
+  bottom: 79.54%;
+  left: 4.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon26 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 24.78%;
+  right: 94.44%;
+  bottom: 74.53%;
+  left: 4.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon27 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 29.74%;
+  right: 94.46%;
+  bottom: 69.58%;
+  left: 4.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon28 {
+  position: absolute;
+  height: 0.73%;
+  width: 0.74%;
+  top: 34.69%;
+  right: 94.43%;
+  bottom: 64.57%;
+  left: 4.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon29 {
+  position: absolute;
+  height: 0.78%;
+  width: 0.8%;
+  top: 39.65%;
+  right: 94.39%;
+  bottom: 59.57%;
+  left: 4.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon30 {
+  position: absolute;
+  height: 0.83%;
+  width: 0.83%;
+  top: 44.6%;
+  right: 94.38%;
+  bottom: 54.57%;
+  left: 4.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon31 {
+  position: absolute;
+  height: 0.88%;
+  width: 0.88%;
+  top: 49.56%;
+  right: 94.35%;
+  bottom: 49.56%;
+  left: 4.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon32 {
+  position: absolute;
+  height: 0.83%;
+  width: 0.83%;
+  top: 54.56%;
+  right: 94.38%;
+  bottom: 44.61%;
+  left: 4.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon33 {
+  position: absolute;
+  height: 0.78%;
+  width: 0.8%;
+  top: 59.56%;
+  right: 94.39%;
+  bottom: 39.66%;
+  left: 4.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon34 {
+  position: absolute;
+  height: 0.73%;
+  width: 0.74%;
+  top: 64.55%;
+  right: 94.43%;
+  bottom: 34.71%;
+  left: 4.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon35 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 69.55%;
+  right: 94.46%;
+  bottom: 29.76%;
+  left: 4.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon36 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 74.55%;
+  right: 94.44%;
+  bottom: 24.76%;
+  left: 4.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon37 {
+  position: absolute;
+  height: 0.64%;
+  width: 0.65%;
+  top: 79.55%;
+  right: 94.45%;
+  bottom: 19.81%;
+  left: 4.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon38 {
+  position: absolute;
+  height: 0.59%;
+  width: 0.6%;
+  top: 84.54%;
+  right: 94.48%;
+  bottom: 14.86%;
+  left: 4.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon39 {
+  position: absolute;
+  height: 0.55%;
+  width: 0.55%;
+  top: 89.54%;
+  right: 94.52%;
+  bottom: 9.91%;
+  left: 4.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon40 {
+  position: absolute;
+  height: 0.5%;
+  width: 0.51%;
+  top: 94.54%;
+  right: 94.53%;
+  bottom: 4.96%;
+  left: 4.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon41 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 94.56%;
+  bottom: -0.01%;
+  left: 4.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon42 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 89.59%;
+  bottom: 99.53%;
+  left: 9.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon43 {
+  position: absolute;
+  height: 0.55%;
+  width: 0.55%;
+  top: 4.94%;
+  right: 89.54%;
+  bottom: 94.52%;
+  left: 9.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon44 {
+  position: absolute;
+  height: 0.64%;
+  width: 0.65%;
+  top: 9.87%;
+  right: 89.48%;
+  bottom: 89.49%;
+  left: 9.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon45 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 14.81%;
+  right: 89.48%;
+  bottom: 84.51%;
+  left: 9.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon46 {
+  position: absolute;
+  height: 0.78%;
+  width: 0.8%;
+  top: 19.74%;
+  right: 89.42%;
+  bottom: 79.48%;
+  left: 9.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon47 {
+  position: absolute;
+  height: 0.88%;
+  width: 0.88%;
+  top: 24.68%;
+  right: 89.37%;
+  bottom: 74.45%;
+  left: 9.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon48 {
+  position: absolute;
+  height: 0.97%;
+  width: 0.97%;
+  top: 29.61%;
+  right: 89.32%;
+  bottom: 69.42%;
+  left: 9.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon49 {
+  position: absolute;
+  height: 1.07%;
+  width: 1.06%;
+  top: 34.55%;
+  right: 89.28%;
+  bottom: 64.39%;
+  left: 9.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon50 {
+  position: absolute;
+  height: 1.11%;
+  width: 1.11%;
+  top: 39.48%;
+  right: 89.27%;
+  bottom: 59.4%;
+  left: 9.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon51 {
+  position: absolute;
+  height: 1.21%;
+  width: 1.2%;
+  top: 44.42%;
+  right: 89.22%;
+  bottom: 54.37%;
+  left: 9.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon52 {
+  position: absolute;
+  height: 1.3%;
+  width: 1.29%;
+  top: 49.35%;
+  right: 89.17%;
+  bottom: 49.34%;
+  left: 9.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon53 {
+  position: absolute;
+  height: 1.21%;
+  width: 1.2%;
+  top: 54.37%;
+  right: 89.22%;
+  bottom: 44.42%;
+  left: 9.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon54 {
+  position: absolute;
+  height: 1.11%;
+  width: 1.11%;
+  top: 59.39%;
+  right: 89.27%;
+  bottom: 39.5%;
+  left: 9.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon55 {
+  position: absolute;
+  height: 1.07%;
+  width: 1.06%;
+  top: 64.41%;
+  right: 89.28%;
+  bottom: 34.53%;
+  left: 9.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon56 {
+  position: absolute;
+  height: 0.97%;
+  width: 0.97%;
+  top: 69.43%;
+  right: 89.32%;
+  bottom: 29.6%;
+  left: 9.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon57 {
+  position: absolute;
+  height: 0.88%;
+  width: 0.88%;
+  top: 74.44%;
+  right: 89.37%;
+  bottom: 24.68%;
+  left: 9.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon58 {
+  position: absolute;
+  height: 0.78%;
+  width: 0.8%;
+  top: 79.46%;
+  right: 89.42%;
+  bottom: 19.76%;
+  left: 9.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon59 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 84.48%;
+  right: 89.48%;
+  bottom: 14.83%;
+  left: 9.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon60 {
+  position: absolute;
+  height: 0.64%;
+  width: 0.65%;
+  top: 89.5%;
+  right: 89.48%;
+  bottom: 9.86%;
+  left: 9.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon61 {
+  position: absolute;
+  height: 0.55%;
+  width: 0.55%;
+  top: 94.52%;
+  right: 89.54%;
+  bottom: 4.94%;
+  left: 9.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon62 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 89.59%;
+  bottom: -0.01%;
+  left: 9.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon63 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 84.61%;
+  bottom: 99.53%;
+  left: 14.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon64 {
+  position: absolute;
+  height: 0.59%;
+  width: 0.6%;
+  top: 4.91%;
+  right: 84.53%;
+  bottom: 94.49%;
+  left: 14.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon65 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 9.83%;
+  right: 84.51%;
+  bottom: 89.48%;
+  left: 14.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon66 {
+  position: absolute;
+  height: 0.83%;
+  width: 0.83%;
+  top: 14.74%;
+  right: 84.43%;
+  bottom: 84.43%;
+  left: 14.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon67 {
+  position: absolute;
+  height: 0.97%;
+  width: 0.97%;
+  top: 19.66%;
+  right: 84.35%;
+  bottom: 79.37%;
+  left: 14.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon68 {
+  position: absolute;
+  height: 1.11%;
+  width: 1.11%;
+  top: 24.57%;
+  right: 84.27%;
+  bottom: 74.31%;
+  left: 14.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon69 {
+  position: absolute;
+  height: 1.21%;
+  width: 1.2%;
+  top: 29.49%;
+  right: 84.24%;
+  bottom: 69.31%;
+  left: 14.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon70 {
+  position: absolute;
+  height: 1.35%;
+  width: 1.34%;
+  top: 34.4%;
+  right: 84.16%;
+  bottom: 64.25%;
+  left: 14.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon71 {
+  position: absolute;
+  height: 1.49%;
+  width: 1.48%;
+  top: 39.31%;
+  right: 84.09%;
+  bottom: 59.19%;
+  left: 14.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon72 {
+  position: absolute;
+  height: 1.56%;
+  width: 1.57%;
+  top: 44.23%;
+  right: 84.06%;
+  bottom: 54.21%;
+  left: 14.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon73 {
+  position: absolute;
+  height: 1.71%;
+  width: 1.71%;
+  top: 49.14%;
+  right: 83.98%;
+  bottom: 49.15%;
+  left: 14.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon74 {
+  position: absolute;
+  height: 1.56%;
+  width: 1.57%;
+  top: 54.18%;
+  right: 84.06%;
+  bottom: 44.25%;
+  left: 14.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon75 {
+  position: absolute;
+  height: 1.49%;
+  width: 1.48%;
+  top: 59.22%;
+  right: 84.09%;
+  bottom: 39.28%;
+  left: 14.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon76 {
+  position: absolute;
+  height: 1.35%;
+  width: 1.34%;
+  top: 64.26%;
+  right: 84.16%;
+  bottom: 34.39%;
+  left: 14.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon77 {
+  position: absolute;
+  height: 1.21%;
+  width: 1.2%;
+  top: 69.3%;
+  right: 84.24%;
+  bottom: 29.49%;
+  left: 14.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon78 {
+  position: absolute;
+  height: 1.11%;
+  width: 1.11%;
+  top: 74.34%;
+  right: 84.27%;
+  bottom: 24.55%;
+  left: 14.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon79 {
+  position: absolute;
+  height: 0.97%;
+  width: 0.97%;
+  top: 79.38%;
+  right: 84.35%;
+  bottom: 19.65%;
+  left: 14.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon80 {
+  position: absolute;
+  height: 0.83%;
+  width: 0.83%;
+  top: 84.42%;
+  right: 84.43%;
+  bottom: 14.75%;
+  left: 14.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon81 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 89.46%;
+  right: 84.51%;
+  bottom: 9.85%;
+  left: 14.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon82 {
+  position: absolute;
+  height: 0.59%;
+  width: 0.6%;
+  top: 94.5%;
+  right: 84.53%;
+  bottom: 4.91%;
+  left: 14.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon83 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 84.61%;
+  bottom: -0.01%;
+  left: 14.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon84 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 79.63%;
+  bottom: 99.53%;
+  left: 19.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon85 {
+  position: absolute;
+  height: 0.64%;
+  width: 0.65%;
+  top: 4.89%;
+  right: 79.52%;
+  bottom: 94.47%;
+  left: 19.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon86 {
+  position: absolute;
+  height: 0.78%;
+  width: 0.8%;
+  top: 9.79%;
+  right: 79.46%;
+  bottom: 89.43%;
+  left: 19.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon87 {
+  position: absolute;
+  height: 0.97%;
+  width: 0.97%;
+  top: 14.68%;
+  right: 79.37%;
+  bottom: 84.35%;
+  left: 19.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon88 {
+  position: absolute;
+  height: 1.11%;
+  width: 1.11%;
+  top: 19.57%;
+  right: 79.31%;
+  bottom: 79.31%;
+  left: 19.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon89 {
+  position: absolute;
+  height: 1.3%;
+  width: 1.29%;
+  top: 24.47%;
+  right: 79.22%;
+  bottom: 74.23%;
+  left: 19.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon90 {
+  position: absolute;
+  height: 1.49%;
+  width: 1.48%;
+  top: 29.36%;
+  right: 79.11%;
+  bottom: 69.15%;
+  left: 19.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon91 {
+  position: absolute;
+  height: 1.61%;
+  width: 1.63%;
+  top: 34.25%;
+  right: 79.05%;
+  bottom: 64.13%;
+  left: 19.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon92 {
+  position: absolute;
+  height: 1.8%;
+  width: 1.8%;
+  top: 39.15%;
+  right: 78.96%;
+  bottom: 59.05%;
+  left: 19.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon93 {
+  position: absolute;
+  height: 1.94%;
+  width: 1.94%;
+  top: 44.04%;
+  right: 78.9%;
+  bottom: 54.02%;
+  left: 19.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon94 {
+  position: absolute;
+  height: 2.13%;
+  width: 2.14%;
+  top: 48.94%;
+  right: 78.79%;
+  bottom: 48.93%;
+  left: 19.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon95 {
+  position: absolute;
+  height: 1.94%;
+  width: 1.94%;
+  top: 54%;
+  right: 78.9%;
+  bottom: 44.06%;
+  left: 19.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon96 {
+  position: absolute;
+  height: 1.8%;
+  width: 1.8%;
+  top: 59.06%;
+  right: 78.96%;
+  bottom: 39.14%;
+  left: 19.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon97 {
+  position: absolute;
+  height: 1.61%;
+  width: 1.63%;
+  top: 64.12%;
+  right: 79.05%;
+  bottom: 34.27%;
+  left: 19.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon98 {
+  position: absolute;
+  height: 1.49%;
+  width: 1.48%;
+  top: 69.18%;
+  right: 79.11%;
+  bottom: 29.33%;
+  left: 19.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon99 {
+  position: absolute;
+  height: 1.3%;
+  width: 1.29%;
+  top: 74.24%;
+  right: 79.22%;
+  bottom: 24.46%;
+  left: 19.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon100 {
+  position: absolute;
+  height: 1.11%;
+  width: 1.11%;
+  top: 79.3%;
+  right: 79.31%;
+  bottom: 19.59%;
+  left: 19.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon101 {
+  position: absolute;
+  height: 0.97%;
+  width: 0.97%;
+  top: 84.36%;
+  right: 79.37%;
+  bottom: 14.67%;
+  left: 19.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon102 {
+  position: absolute;
+  height: 0.78%;
+  width: 0.8%;
+  top: 89.42%;
+  right: 79.46%;
+  bottom: 9.8%;
+  left: 19.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon103 {
+  position: absolute;
+  height: 0.64%;
+  width: 0.65%;
+  top: 94.48%;
+  right: 79.52%;
+  bottom: 4.88%;
+  left: 19.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon104 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 79.63%;
+  bottom: -0.01%;
+  left: 19.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon105 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 74.66%;
+  bottom: 99.53%;
+  left: 24.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon106 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 4.87%;
+  right: 74.53%;
+  bottom: 94.44%;
+  left: 24.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon107 {
+  position: absolute;
+  height: 0.88%;
+  width: 0.88%;
+  top: 9.75%;
+  right: 74.44%;
+  bottom: 89.38%;
+  left: 24.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon108 {
+  position: absolute;
+  height: 1.11%;
+  width: 1.11%;
+  top: 14.62%;
+  right: 74.31%;
+  bottom: 84.27%;
+  left: 24.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon109 {
+  position: absolute;
+  height: 1.3%;
+  width: 1.29%;
+  top: 19.49%;
+  right: 74.24%;
+  bottom: 79.21%;
+  left: 24.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon110 {
+  position: absolute;
+  height: 1.52%;
+  width: 1.52%;
+  top: 24.36%;
+  right: 74.12%;
+  bottom: 74.12%;
+  left: 24.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon111 {
+  position: absolute;
+  height: 1.71%;
+  width: 1.71%;
+  top: 29.24%;
+  right: 74.03%;
+  bottom: 69.06%;
+  left: 24.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon112 {
+  position: absolute;
+  height: 1.9%;
+  width: 1.89%;
+  top: 34.11%;
+  right: 73.95%;
+  bottom: 64%;
+  left: 24.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon113 {
+  position: absolute;
+  height: 2.13%;
+  width: 2.14%;
+  top: 38.98%;
+  right: 73.81%;
+  bottom: 58.89%;
+  left: 24.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon114 {
+  position: absolute;
+  height: 2.37%;
+  width: 2.37%;
+  top: 43.85%;
+  right: 73.69%;
+  bottom: 53.78%;
+  left: 23.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon115 {
+  position: absolute;
+  height: 2.54%;
+  width: 2.54%;
+  top: 48.73%;
+  right: 73.61%;
+  bottom: 48.74%;
+  left: 23.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon116 {
+  position: absolute;
+  height: 2.37%;
+  width: 2.37%;
+  top: 53.81%;
+  right: 73.69%;
+  bottom: 43.82%;
+  left: 23.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon117 {
+  position: absolute;
+  height: 2.13%;
+  width: 2.14%;
+  top: 58.89%;
+  right: 73.81%;
+  bottom: 38.98%;
+  left: 24.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon118 {
+  position: absolute;
+  height: 1.9%;
+  width: 1.89%;
+  top: 63.97%;
+  right: 73.95%;
+  bottom: 34.13%;
+  left: 24.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon119 {
+  position: absolute;
+  height: 1.71%;
+  width: 1.71%;
+  top: 69.05%;
+  right: 74.03%;
+  bottom: 29.24%;
+  left: 24.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon120 {
+  position: absolute;
+  height: 1.52%;
+  width: 1.52%;
+  top: 74.13%;
+  right: 74.12%;
+  bottom: 24.35%;
+  left: 24.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon121 {
+  position: absolute;
+  height: 1.3%;
+  width: 1.29%;
+  top: 79.21%;
+  right: 74.24%;
+  bottom: 19.48%;
+  left: 24.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon122 {
+  position: absolute;
+  height: 1.07%;
+  width: 1.06%;
+  top: 84.29%;
+  right: 74.37%;
+  bottom: 14.64%;
+  left: 24.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon123 {
+  position: absolute;
+  height: 0.88%;
+  width: 0.88%;
+  top: 89.38%;
+  right: 74.44%;
+  bottom: 9.75%;
+  left: 24.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon124 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 94.46%;
+  right: 74.53%;
+  bottom: 4.86%;
+  left: 24.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon125 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 74.66%;
+  bottom: -0.01%;
+  left: 24.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon126 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 69.68%;
+  bottom: 99.53%;
+  left: 29.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon127 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 4.85%;
+  right: 69.57%;
+  bottom: 94.46%;
+  left: 29.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon128 {
+  position: absolute;
+  height: 0.97%;
+  width: 0.97%;
+  top: 9.7%;
+  right: 69.42%;
+  bottom: 89.32%;
+  left: 29.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon129 {
+  position: absolute;
+  height: 1.21%;
+  width: 1.2%;
+  top: 14.56%;
+  right: 69.31%;
+  bottom: 84.24%;
+  left: 29.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon130 {
+  position: absolute;
+  height: 1.49%;
+  width: 1.48%;
+  top: 19.41%;
+  right: 69.15%;
+  bottom: 79.1%;
+  left: 29.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon131 {
+  position: absolute;
+  height: 1.71%;
+  width: 1.71%;
+  top: 24.26%;
+  right: 69.05%;
+  bottom: 74.03%;
+  left: 29.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon132 {
+  position: absolute;
+  height: 1.94%;
+  width: 1.94%;
+  top: 29.11%;
+  right: 68.95%;
+  bottom: 68.95%;
+  left: 29.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon133 {
+  position: absolute;
+  height: 2.23%;
+  width: 2.23%;
+  top: 33.96%;
+  right: 68.79%;
+  bottom: 63.81%;
+  left: 28.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon134 {
+  position: absolute;
+  height: 2.46%;
+  width: 2.46%;
+  top: 38.81%;
+  right: 68.68%;
+  bottom: 58.72%;
+  left: 28.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon135 {
+  position: absolute;
+  height: 2.73%;
+  width: 2.74%;
+  top: 43.67%;
+  right: 68.53%;
+  bottom: 53.61%;
+  left: 28.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon136 {
+  position: absolute;
+  height: 2.96%;
+  width: 2.97%;
+  top: 48.52%;
+  right: 68.42%;
+  bottom: 48.52%;
+  left: 28.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon137 {
+  position: absolute;
+  height: 2.73%;
+  width: 2.74%;
+  top: 53.62%;
+  right: 68.53%;
+  bottom: 43.65%;
+  left: 28.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon138 {
+  position: absolute;
+  height: 2.46%;
+  width: 2.46%;
+  top: 58.72%;
+  right: 68.68%;
+  bottom: 38.81%;
+  left: 28.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon139 {
+  position: absolute;
+  height: 2.23%;
+  width: 2.23%;
+  top: 63.82%;
+  right: 68.79%;
+  bottom: 33.95%;
+  left: 28.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon140 {
+  position: absolute;
+  height: 1.94%;
+  width: 1.94%;
+  top: 68.93%;
+  right: 68.95%;
+  bottom: 29.13%;
+  left: 29.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon141 {
+  position: absolute;
+  height: 1.71%;
+  width: 1.71%;
+  top: 74.03%;
+  right: 69.05%;
+  bottom: 24.27%;
+  left: 29.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon142 {
+  position: absolute;
+  height: 1.49%;
+  width: 1.48%;
+  top: 79.13%;
+  right: 69.15%;
+  bottom: 19.38%;
+  left: 29.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon143 {
+  position: absolute;
+  height: 1.21%;
+  width: 1.2%;
+  top: 84.23%;
+  right: 69.31%;
+  bottom: 14.56%;
+  left: 29.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon144 {
+  position: absolute;
+  height: 0.97%;
+  width: 0.97%;
+  top: 89.33%;
+  right: 69.42%;
+  bottom: 9.7%;
+  left: 29.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon145 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 94.44%;
+  right: 69.57%;
+  bottom: 4.88%;
+  left: 29.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon146 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 69.68%;
+  bottom: -0.01%;
+  left: 29.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon147 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 64.7%;
+  bottom: 99.53%;
+  left: 34.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon148 {
+  position: absolute;
+  height: 0.73%;
+  width: 0.74%;
+  top: 4.83%;
+  right: 64.57%;
+  bottom: 94.43%;
+  left: 34.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon149 {
+  position: absolute;
+  height: 1.07%;
+  width: 1.06%;
+  top: 9.66%;
+  right: 64.39%;
+  bottom: 89.27%;
+  left: 34.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon150 {
+  position: absolute;
+  height: 1.35%;
+  width: 1.34%;
+  top: 14.49%;
+  right: 64.26%;
+  bottom: 84.16%;
+  left: 34.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon151 {
+  position: absolute;
+  height: 1.61%;
+  width: 1.63%;
+  top: 19.32%;
+  right: 64.12%;
+  bottom: 79.06%;
+  left: 34.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon152 {
+  position: absolute;
+  height: 1.94%;
+  width: 1.94%;
+  top: 24.16%;
+  right: 63.95%;
+  bottom: 73.9%;
+  left: 34.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon153 {
+  position: absolute;
+  height: 2.23%;
+  width: 2.23%;
+  top: 28.99%;
+  right: 63.81%;
+  bottom: 68.79%;
+  left: 33.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon154 {
+  position: absolute;
+  height: 2.51%;
+  width: 2.51%;
+  top: 33.82%;
+  right: 63.67%;
+  bottom: 63.67%;
+  left: 33.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon155 {
+  position: absolute;
+  height: 2.77%;
+  width: 2.77%;
+  top: 38.65%;
+  right: 63.55%;
+  bottom: 58.58%;
+  left: 33.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon156 {
+  position: absolute;
+  height: 3.1%;
+  width: 3.11%;
+  top: 43.48%;
+  right: 63.36%;
+  bottom: 53.42%;
+  left: 33.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon157 {
+  position: absolute;
+  height: 3.39%;
+  width: 3.37%;
+  top: 48.31%;
+  right: 63.25%;
+  bottom: 48.3%;
+  left: 33.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon158 {
+  position: absolute;
+  height: 3.1%;
+  width: 3.11%;
+  top: 53.43%;
+  right: 63.36%;
+  bottom: 43.46%;
+  left: 33.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon159 {
+  position: absolute;
+  height: 2.77%;
+  width: 2.77%;
+  top: 58.56%;
+  right: 63.55%;
+  bottom: 38.67%;
+  left: 33.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon160 {
+  position: absolute;
+  height: 2.51%;
+  width: 2.51%;
+  top: 63.68%;
+  right: 63.67%;
+  bottom: 33.81%;
+  left: 33.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon161 {
+  position: absolute;
+  height: 2.23%;
+  width: 2.23%;
+  top: 68.8%;
+  right: 63.81%;
+  bottom: 28.97%;
+  left: 33.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon162 {
+  position: absolute;
+  height: 1.94%;
+  width: 1.94%;
+  top: 73.92%;
+  right: 63.95%;
+  bottom: 24.13%;
+  left: 34.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon163 {
+  position: absolute;
+  height: 1.61%;
+  width: 1.63%;
+  top: 79.05%;
+  right: 64.12%;
+  bottom: 19.34%;
+  left: 34.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon164 {
+  position: absolute;
+  height: 1.35%;
+  width: 1.34%;
+  top: 84.17%;
+  right: 64.26%;
+  bottom: 14.48%;
+  left: 34.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon165 {
+  position: absolute;
+  height: 1.07%;
+  width: 1.06%;
+  top: 89.29%;
+  right: 64.39%;
+  bottom: 9.64%;
+  left: 34.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon166 {
+  position: absolute;
+  height: 0.73%;
+  width: 0.74%;
+  top: 94.41%;
+  right: 64.57%;
+  bottom: 4.85%;
+  left: 34.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon167 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 64.7%;
+  bottom: -0.01%;
+  left: 34.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon168 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 59.73%;
+  bottom: 99.53%;
+  left: 39.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon169 {
+  position: absolute;
+  height: 0.78%;
+  width: 0.8%;
+  top: 4.81%;
+  right: 59.56%;
+  bottom: 94.41%;
+  left: 39.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon170 {
+  position: absolute;
+  height: 1.11%;
+  width: 1.11%;
+  top: 9.62%;
+  right: 59.41%;
+  bottom: 89.27%;
+  left: 39.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon171 {
+  position: absolute;
+  height: 1.49%;
+  width: 1.48%;
+  top: 14.43%;
+  right: 59.2%;
+  bottom: 84.08%;
+  left: 39.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon172 {
+  position: absolute;
+  height: 1.8%;
+  width: 1.8%;
+  top: 19.24%;
+  right: 59.05%;
+  bottom: 78.96%;
+  left: 39.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon173 {
+  position: absolute;
+  height: 2.13%;
+  width: 2.14%;
+  top: 24.05%;
+  right: 58.88%;
+  bottom: 73.82%;
+  left: 38.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon174 {
+  position: absolute;
+  height: 2.46%;
+  width: 2.46%;
+  top: 28.86%;
+  right: 58.73%;
+  bottom: 68.67%;
+  left: 38.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon175 {
+  position: absolute;
+  height: 2.77%;
+  width: 2.77%;
+  top: 33.67%;
+  right: 58.58%;
+  bottom: 63.56%;
+  left: 38.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon176 {
+  position: absolute;
+  height: 3.15%;
+  width: 3.14%;
+  top: 38.48%;
+  right: 58.37%;
+  bottom: 58.37%;
+  left: 38.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon177 {
+  position: absolute;
+  height: 3.48%;
+  width: 3.48%;
+  top: 43.29%;
+  right: 58.2%;
+  bottom: 53.22%;
+  left: 38.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon178 {
+  position: absolute;
+  height: 3.79%;
+  width: 3.8%;
+  top: 48.1%;
+  right: 58.05%;
+  bottom: 48.11%;
+  left: 38.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon179 {
+  position: absolute;
+  height: 3.48%;
+  width: 3.48%;
+  top: 53.25%;
+  right: 58.2%;
+  bottom: 43.27%;
+  left: 38.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon180 {
+  position: absolute;
+  height: 3.15%;
+  width: 3.14%;
+  top: 58.39%;
+  right: 58.37%;
+  bottom: 38.46%;
+  left: 38.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon181 {
+  position: absolute;
+  height: 2.77%;
+  width: 2.77%;
+  top: 63.53%;
+  right: 58.58%;
+  bottom: 33.7%;
+  left: 38.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon182 {
+  position: absolute;
+  height: 2.46%;
+  width: 2.46%;
+  top: 68.68%;
+  right: 58.73%;
+  bottom: 28.86%;
+  left: 38.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon183 {
+  position: absolute;
+  height: 2.13%;
+  width: 2.14%;
+  top: 73.82%;
+  right: 58.88%;
+  bottom: 24.05%;
+  left: 38.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon184 {
+  position: absolute;
+  height: 1.8%;
+  width: 1.8%;
+  top: 78.96%;
+  right: 59.05%;
+  bottom: 19.24%;
+  left: 39.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon185 {
+  position: absolute;
+  height: 1.49%;
+  width: 1.48%;
+  top: 84.11%;
+  right: 59.2%;
+  bottom: 14.4%;
+  left: 39.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon186 {
+  position: absolute;
+  height: 1.11%;
+  width: 1.11%;
+  top: 89.25%;
+  right: 59.41%;
+  bottom: 9.64%;
+  left: 39.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon187 {
+  position: absolute;
+  height: 0.78%;
+  width: 0.8%;
+  top: 94.39%;
+  right: 59.56%;
+  bottom: 4.82%;
+  left: 39.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon188 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 59.73%;
+  bottom: -0.01%;
+  left: 39.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon189 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 54.75%;
+  bottom: 99.53%;
+  left: 44.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon190 {
+  position: absolute;
+  height: 0.83%;
+  width: 0.83%;
+  top: 4.79%;
+  right: 54.57%;
+  bottom: 94.38%;
+  left: 44.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon191 {
+  position: absolute;
+  height: 1.21%;
+  width: 1.2%;
+  top: 9.58%;
+  right: 54.38%;
+  bottom: 89.21%;
+  left: 44.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon192 {
+  position: absolute;
+  height: 1.56%;
+  width: 1.57%;
+  top: 14.37%;
+  right: 54.2%;
+  bottom: 84.07%;
+  left: 44.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon193 {
+  position: absolute;
+  height: 1.94%;
+  width: 1.94%;
+  top: 19.16%;
+  right: 54.01%;
+  bottom: 78.9%;
+  left: 44.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon194 {
+  position: absolute;
+  height: 2.37%;
+  width: 2.37%;
+  top: 23.95%;
+  right: 53.78%;
+  bottom: 73.68%;
+  left: 43.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon195 {
+  position: absolute;
+  height: 2.73%;
+  width: 2.74%;
+  top: 28.74%;
+  right: 53.59%;
+  bottom: 68.54%;
+  left: 43.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon196 {
+  position: absolute;
+  height: 3.1%;
+  width: 3.11%;
+  top: 33.53%;
+  right: 53.41%;
+  bottom: 63.37%;
+  left: 43.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon197 {
+  position: absolute;
+  height: 3.48%;
+  width: 3.48%;
+  top: 38.31%;
+  right: 53.23%;
+  bottom: 58.2%;
+  left: 43.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon198 {
+  position: absolute;
+  height: 3.84%;
+  width: 3.83%;
+  top: 43.1%;
+  right: 53.06%;
+  bottom: 53.06%;
+  left: 43.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon199 {
+  position: absolute;
+  height: 4.22%;
+  width: 4.2%;
+  top: 47.89%;
+  right: 52.88%;
+  bottom: 47.89%;
+  left: 42.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon200 {
+  position: absolute;
+  height: 3.84%;
+  width: 3.83%;
+  top: 53.06%;
+  right: 53.06%;
+  bottom: 43.1%;
+  left: 43.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon201 {
+  position: absolute;
+  height: 3.48%;
+  width: 3.48%;
+  top: 58.22%;
+  right: 53.23%;
+  bottom: 38.29%;
+  left: 43.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon202 {
+  position: absolute;
+  height: 3.1%;
+  width: 3.11%;
+  top: 63.39%;
+  right: 53.41%;
+  bottom: 33.51%;
+  left: 43.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon203 {
+  position: absolute;
+  height: 2.73%;
+  width: 2.74%;
+  top: 68.55%;
+  right: 53.59%;
+  bottom: 28.72%;
+  left: 43.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon204 {
+  position: absolute;
+  height: 2.37%;
+  width: 2.37%;
+  top: 73.72%;
+  right: 53.78%;
+  bottom: 23.91%;
+  left: 43.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon205 {
+  position: absolute;
+  height: 1.94%;
+  width: 1.94%;
+  top: 78.88%;
+  right: 54.01%;
+  bottom: 19.18%;
+  left: 44.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon206 {
+  position: absolute;
+  height: 1.56%;
+  width: 1.57%;
+  top: 84.04%;
+  right: 54.2%;
+  bottom: 14.39%;
+  left: 44.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon207 {
+  position: absolute;
+  height: 1.21%;
+  width: 1.2%;
+  top: 89.21%;
+  right: 54.38%;
+  bottom: 9.58%;
+  left: 44.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon208 {
+  position: absolute;
+  height: 0.83%;
+  width: 0.83%;
+  top: 94.37%;
+  right: 54.57%;
+  bottom: 4.8%;
+  left: 44.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon209 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 54.75%;
+  bottom: -0.01%;
+  left: 44.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon210 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 49.77%;
+  bottom: 99.53%;
+  left: 49.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon211 {
+  position: absolute;
+  height: 0.88%;
+  width: 0.88%;
+  top: 4.77%;
+  right: 49.56%;
+  bottom: 94.35%;
+  left: 49.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon212 {
+  position: absolute;
+  height: 1.3%;
+  width: 1.29%;
+  top: 9.54%;
+  right: 49.36%;
+  bottom: 89.16%;
+  left: 49.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon213 {
+  position: absolute;
+  height: 1.71%;
+  width: 1.71%;
+  top: 14.31%;
+  right: 49.14%;
+  bottom: 83.99%;
+  left: 49.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon214 {
+  position: absolute;
+  height: 2.13%;
+  width: 2.14%;
+  top: 19.07%;
+  right: 48.93%;
+  bottom: 78.79%;
+  left: 48.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon215 {
+  position: absolute;
+  height: 2.54%;
+  width: 2.54%;
+  top: 23.84%;
+  right: 48.73%;
+  bottom: 73.62%;
+  left: 48.73%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon216 {
+  position: absolute;
+  height: 2.96%;
+  width: 2.97%;
+  top: 28.61%;
+  right: 48.51%;
+  bottom: 68.43%;
+  left: 48.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon217 {
+  position: absolute;
+  height: 3.39%;
+  width: 3.37%;
+  top: 33.38%;
+  right: 48.32%;
+  bottom: 63.23%;
+  left: 48.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon218 {
+  position: absolute;
+  height: 3.79%;
+  width: 3.8%;
+  top: 38.15%;
+  right: 48.1%;
+  bottom: 58.06%;
+  left: 48.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon219 {
+  position: absolute;
+  height: 4.22%;
+  width: 4.2%;
+  top: 42.92%;
+  right: 47.9%;
+  bottom: 52.87%;
+  left: 47.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon220 {
+  position: absolute;
+  height: 4.62%;
+  width: 4.63%;
+  top: 47.69%;
+  right: 47.69%;
+  bottom: 47.69%;
+  left: 47.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon221 {
+  position: absolute;
+  height: 4.22%;
+  width: 4.2%;
+  top: 52.87%;
+  right: 47.9%;
+  bottom: 42.91%;
+  left: 47.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon222 {
+  position: absolute;
+  height: 3.79%;
+  width: 3.8%;
+  top: 58.06%;
+  right: 48.1%;
+  bottom: 38.15%;
+  left: 48.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon223 {
+  position: absolute;
+  height: 3.39%;
+  width: 3.37%;
+  top: 63.24%;
+  right: 48.32%;
+  bottom: 33.37%;
+  left: 48.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon224 {
+  position: absolute;
+  height: 2.96%;
+  width: 2.97%;
+  top: 68.43%;
+  right: 48.51%;
+  bottom: 28.61%;
+  left: 48.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon225 {
+  position: absolute;
+  height: 2.54%;
+  width: 2.54%;
+  top: 73.61%;
+  right: 48.73%;
+  bottom: 23.85%;
+  left: 48.73%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon226 {
+  position: absolute;
+  height: 2.13%;
+  width: 2.14%;
+  top: 78.8%;
+  right: 48.93%;
+  bottom: 19.07%;
+  left: 48.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon227 {
+  position: absolute;
+  height: 1.71%;
+  width: 1.71%;
+  top: 83.98%;
+  right: 49.14%;
+  bottom: 14.31%;
+  left: 49.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon228 {
+  position: absolute;
+  height: 1.3%;
+  width: 1.29%;
+  top: 89.17%;
+  right: 49.36%;
+  bottom: 9.53%;
+  left: 49.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon229 {
+  position: absolute;
+  height: 0.88%;
+  width: 0.88%;
+  top: 94.35%;
+  right: 49.56%;
+  bottom: 4.77%;
+  left: 49.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon230 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 49.77%;
+  bottom: -0.01%;
+  left: 49.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon231 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 44.8%;
+  bottom: 99.53%;
+  left: 54.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon232 {
+  position: absolute;
+  height: 0.83%;
+  width: 0.83%;
+  top: 4.79%;
+  right: 44.61%;
+  bottom: 94.38%;
+  left: 54.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon233 {
+  position: absolute;
+  height: 1.21%;
+  width: 1.2%;
+  top: 9.58%;
+  right: 44.43%;
+  bottom: 89.21%;
+  left: 54.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon234 {
+  position: absolute;
+  height: 1.56%;
+  width: 1.57%;
+  top: 14.37%;
+  right: 44.25%;
+  bottom: 84.07%;
+  left: 54.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon235 {
+  position: absolute;
+  height: 1.94%;
+  width: 1.94%;
+  top: 19.16%;
+  right: 44.06%;
+  bottom: 78.9%;
+  left: 54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon236 {
+  position: absolute;
+  height: 2.37%;
+  width: 2.37%;
+  top: 23.95%;
+  right: 43.82%;
+  bottom: 73.68%;
+  left: 53.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon237 {
+  position: absolute;
+  height: 2.73%;
+  width: 2.74%;
+  top: 28.74%;
+  right: 43.64%;
+  bottom: 68.54%;
+  left: 53.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon238 {
+  position: absolute;
+  height: 3.1%;
+  width: 3.11%;
+  top: 33.52%;
+  right: 43.46%;
+  bottom: 63.37%;
+  left: 53.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon239 {
+  position: absolute;
+  height: 3.48%;
+  width: 3.48%;
+  top: 38.31%;
+  right: 43.27%;
+  bottom: 58.2%;
+  left: 53.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon240 {
+  position: absolute;
+  height: 3.84%;
+  width: 3.83%;
+  top: 43.1%;
+  right: 43.11%;
+  bottom: 53.06%;
+  left: 53.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon241 {
+  position: absolute;
+  height: 4.22%;
+  width: 4.2%;
+  top: 47.89%;
+  right: 42.92%;
+  bottom: 47.89%;
+  left: 52.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon242 {
+  position: absolute;
+  height: 3.84%;
+  width: 3.83%;
+  top: 53.06%;
+  right: 43.11%;
+  bottom: 43.1%;
+  left: 53.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon243 {
+  position: absolute;
+  height: 3.48%;
+  width: 3.48%;
+  top: 58.22%;
+  right: 43.27%;
+  bottom: 38.29%;
+  left: 53.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon244 {
+  position: absolute;
+  height: 3.1%;
+  width: 3.11%;
+  top: 63.39%;
+  right: 43.46%;
+  bottom: 33.51%;
+  left: 53.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon245 {
+  position: absolute;
+  height: 2.73%;
+  width: 2.74%;
+  top: 68.55%;
+  right: 43.64%;
+  bottom: 28.72%;
+  left: 53.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon246 {
+  position: absolute;
+  height: 2.37%;
+  width: 2.37%;
+  top: 73.72%;
+  right: 43.82%;
+  bottom: 23.91%;
+  left: 53.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon247 {
+  position: absolute;
+  height: 1.94%;
+  width: 1.94%;
+  top: 78.88%;
+  right: 44.06%;
+  bottom: 19.18%;
+  left: 54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon248 {
+  position: absolute;
+  height: 1.56%;
+  width: 1.57%;
+  top: 84.04%;
+  right: 44.25%;
+  bottom: 14.39%;
+  left: 54.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon249 {
+  position: absolute;
+  height: 1.21%;
+  width: 1.2%;
+  top: 89.21%;
+  right: 44.43%;
+  bottom: 9.58%;
+  left: 54.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon250 {
+  position: absolute;
+  height: 0.83%;
+  width: 0.83%;
+  top: 94.37%;
+  right: 44.61%;
+  bottom: 4.8%;
+  left: 54.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon251 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 44.8%;
+  bottom: -0.01%;
+  left: 54.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon252 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 39.82%;
+  bottom: 99.53%;
+  left: 59.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon253 {
+  position: absolute;
+  height: 0.78%;
+  width: 0.8%;
+  top: 4.81%;
+  right: 39.65%;
+  bottom: 94.41%;
+  left: 59.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon254 {
+  position: absolute;
+  height: 1.11%;
+  width: 1.11%;
+  top: 9.62%;
+  right: 39.5%;
+  bottom: 89.27%;
+  left: 59.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon255 {
+  position: absolute;
+  height: 1.49%;
+  width: 1.48%;
+  top: 14.43%;
+  right: 39.29%;
+  bottom: 84.08%;
+  left: 59.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon256 {
+  position: absolute;
+  height: 1.8%;
+  width: 1.8%;
+  top: 19.24%;
+  right: 39.14%;
+  bottom: 78.96%;
+  left: 59.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon257 {
+  position: absolute;
+  height: 2.13%;
+  width: 2.14%;
+  top: 24.05%;
+  right: 38.97%;
+  bottom: 73.82%;
+  left: 58.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon258 {
+  position: absolute;
+  height: 2.46%;
+  width: 2.46%;
+  top: 28.86%;
+  right: 38.82%;
+  bottom: 68.67%;
+  left: 58.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon259 {
+  position: absolute;
+  height: 2.77%;
+  width: 2.77%;
+  top: 33.67%;
+  right: 38.67%;
+  bottom: 63.56%;
+  left: 58.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon260 {
+  position: absolute;
+  height: 3.15%;
+  width: 3.14%;
+  top: 38.48%;
+  right: 38.47%;
+  bottom: 58.37%;
+  left: 58.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon261 {
+  position: absolute;
+  height: 3.48%;
+  width: 3.48%;
+  top: 43.29%;
+  right: 38.3%;
+  bottom: 53.22%;
+  left: 58.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon262 {
+  position: absolute;
+  height: 3.79%;
+  width: 3.8%;
+  top: 48.1%;
+  right: 38.15%;
+  bottom: 48.11%;
+  left: 58.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon263 {
+  position: absolute;
+  height: 3.48%;
+  width: 3.48%;
+  top: 53.25%;
+  right: 38.3%;
+  bottom: 43.27%;
+  left: 58.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon264 {
+  position: absolute;
+  height: 3.15%;
+  width: 3.14%;
+  top: 58.39%;
+  right: 38.47%;
+  bottom: 38.46%;
+  left: 58.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon265 {
+  position: absolute;
+  height: 2.77%;
+  width: 2.77%;
+  top: 63.53%;
+  right: 38.67%;
+  bottom: 33.7%;
+  left: 58.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon266 {
+  position: absolute;
+  height: 2.46%;
+  width: 2.46%;
+  top: 68.68%;
+  right: 38.82%;
+  bottom: 28.86%;
+  left: 58.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon267 {
+  position: absolute;
+  height: 2.13%;
+  width: 2.14%;
+  top: 73.82%;
+  right: 38.97%;
+  bottom: 24.05%;
+  left: 58.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon268 {
+  position: absolute;
+  height: 1.8%;
+  width: 1.8%;
+  top: 78.96%;
+  right: 39.14%;
+  bottom: 19.24%;
+  left: 59.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon269 {
+  position: absolute;
+  height: 1.49%;
+  width: 1.48%;
+  top: 84.11%;
+  right: 39.29%;
+  bottom: 14.4%;
+  left: 59.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon270 {
+  position: absolute;
+  height: 1.11%;
+  width: 1.11%;
+  top: 89.25%;
+  right: 39.5%;
+  bottom: 9.64%;
+  left: 59.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon271 {
+  position: absolute;
+  height: 0.78%;
+  width: 0.8%;
+  top: 94.39%;
+  right: 39.65%;
+  bottom: 4.82%;
+  left: 59.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon272 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 39.82%;
+  bottom: -0.01%;
+  left: 59.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon273 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 34.84%;
+  bottom: 99.53%;
+  left: 64.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon274 {
+  position: absolute;
+  height: 0.73%;
+  width: 0.74%;
+  top: 4.83%;
+  right: 34.71%;
+  bottom: 94.43%;
+  left: 64.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon275 {
+  position: absolute;
+  height: 1.07%;
+  width: 1.06%;
+  top: 9.66%;
+  right: 34.53%;
+  bottom: 89.27%;
+  left: 64.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon276 {
+  position: absolute;
+  height: 1.35%;
+  width: 1.34%;
+  top: 14.49%;
+  right: 34.4%;
+  bottom: 84.16%;
+  left: 64.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon277 {
+  position: absolute;
+  height: 1.61%;
+  width: 1.63%;
+  top: 19.32%;
+  right: 34.26%;
+  bottom: 79.06%;
+  left: 64.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon278 {
+  position: absolute;
+  height: 1.94%;
+  width: 1.94%;
+  top: 24.16%;
+  right: 34.09%;
+  bottom: 73.9%;
+  left: 63.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon279 {
+  position: absolute;
+  height: 2.23%;
+  width: 2.23%;
+  top: 28.99%;
+  right: 33.95%;
+  bottom: 68.79%;
+  left: 63.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon280 {
+  position: absolute;
+  height: 2.51%;
+  width: 2.51%;
+  top: 33.82%;
+  right: 33.81%;
+  bottom: 63.67%;
+  left: 63.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon281 {
+  position: absolute;
+  height: 2.77%;
+  width: 2.77%;
+  top: 38.65%;
+  right: 33.69%;
+  bottom: 58.58%;
+  left: 63.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon282 {
+  position: absolute;
+  height: 3.1%;
+  width: 3.11%;
+  top: 43.48%;
+  right: 33.5%;
+  bottom: 53.42%;
+  left: 63.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon283 {
+  position: absolute;
+  height: 3.39%;
+  width: 3.37%;
+  top: 48.31%;
+  right: 33.38%;
+  bottom: 48.3%;
+  left: 63.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon284 {
+  position: absolute;
+  height: 3.1%;
+  width: 3.11%;
+  top: 53.43%;
+  right: 33.5%;
+  bottom: 43.46%;
+  left: 63.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon285 {
+  position: absolute;
+  height: 2.77%;
+  width: 2.77%;
+  top: 58.56%;
+  right: 33.69%;
+  bottom: 38.67%;
+  left: 63.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon286 {
+  position: absolute;
+  height: 2.51%;
+  width: 2.51%;
+  top: 63.68%;
+  right: 33.81%;
+  bottom: 33.81%;
+  left: 63.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon287 {
+  position: absolute;
+  height: 2.23%;
+  width: 2.23%;
+  top: 68.8%;
+  right: 33.95%;
+  bottom: 28.97%;
+  left: 63.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon288 {
+  position: absolute;
+  height: 1.94%;
+  width: 1.94%;
+  top: 73.92%;
+  right: 34.09%;
+  bottom: 24.13%;
+  left: 63.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon289 {
+  position: absolute;
+  height: 1.61%;
+  width: 1.63%;
+  top: 79.05%;
+  right: 34.26%;
+  bottom: 19.34%;
+  left: 64.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon290 {
+  position: absolute;
+  height: 1.35%;
+  width: 1.34%;
+  top: 84.17%;
+  right: 34.4%;
+  bottom: 14.48%;
+  left: 64.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon291 {
+  position: absolute;
+  height: 1.07%;
+  width: 1.06%;
+  top: 89.29%;
+  right: 34.53%;
+  bottom: 9.64%;
+  left: 64.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon292 {
+  position: absolute;
+  height: 0.73%;
+  width: 0.74%;
+  top: 94.41%;
+  right: 34.71%;
+  bottom: 4.85%;
+  left: 64.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon293 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 34.84%;
+  bottom: -0.01%;
+  left: 64.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon294 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 29.86%;
+  bottom: 99.53%;
+  left: 69.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon295 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 4.85%;
+  right: 29.76%;
+  bottom: 94.46%;
+  left: 69.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon296 {
+  position: absolute;
+  height: 0.97%;
+  width: 0.97%;
+  top: 9.7%;
+  right: 29.6%;
+  bottom: 89.32%;
+  left: 69.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon297 {
+  position: absolute;
+  height: 1.21%;
+  width: 1.2%;
+  top: 14.56%;
+  right: 29.5%;
+  bottom: 84.24%;
+  left: 69.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon298 {
+  position: absolute;
+  height: 1.49%;
+  width: 1.48%;
+  top: 19.41%;
+  right: 29.34%;
+  bottom: 79.1%;
+  left: 69.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon299 {
+  position: absolute;
+  height: 1.71%;
+  width: 1.71%;
+  top: 24.26%;
+  right: 29.24%;
+  bottom: 74.03%;
+  left: 69.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon300 {
+  position: absolute;
+  height: 1.94%;
+  width: 1.94%;
+  top: 29.11%;
+  right: 29.13%;
+  bottom: 68.95%;
+  left: 68.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon301 {
+  position: absolute;
+  height: 2.23%;
+  width: 2.23%;
+  top: 33.96%;
+  right: 28.97%;
+  bottom: 63.81%;
+  left: 68.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon302 {
+  position: absolute;
+  height: 2.46%;
+  width: 2.46%;
+  top: 38.81%;
+  right: 28.87%;
+  bottom: 58.72%;
+  left: 68.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon303 {
+  position: absolute;
+  height: 2.73%;
+  width: 2.74%;
+  top: 43.67%;
+  right: 28.71%;
+  bottom: 53.61%;
+  left: 68.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon304 {
+  position: absolute;
+  height: 2.96%;
+  width: 2.97%;
+  top: 48.52%;
+  right: 28.61%;
+  bottom: 48.52%;
+  left: 68.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon305 {
+  position: absolute;
+  height: 2.73%;
+  width: 2.74%;
+  top: 53.62%;
+  right: 28.71%;
+  bottom: 43.65%;
+  left: 68.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon306 {
+  position: absolute;
+  height: 2.46%;
+  width: 2.46%;
+  top: 58.72%;
+  right: 28.87%;
+  bottom: 38.81%;
+  left: 68.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon307 {
+  position: absolute;
+  height: 2.23%;
+  width: 2.23%;
+  top: 63.82%;
+  right: 28.97%;
+  bottom: 33.95%;
+  left: 68.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon308 {
+  position: absolute;
+  height: 1.94%;
+  width: 1.94%;
+  top: 68.93%;
+  right: 29.13%;
+  bottom: 29.13%;
+  left: 68.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon309 {
+  position: absolute;
+  height: 1.71%;
+  width: 1.71%;
+  top: 74.03%;
+  right: 29.24%;
+  bottom: 24.27%;
+  left: 69.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon310 {
+  position: absolute;
+  height: 1.49%;
+  width: 1.48%;
+  top: 79.13%;
+  right: 29.34%;
+  bottom: 19.38%;
+  left: 69.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon311 {
+  position: absolute;
+  height: 1.21%;
+  width: 1.2%;
+  top: 84.23%;
+  right: 29.5%;
+  bottom: 14.56%;
+  left: 69.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon312 {
+  position: absolute;
+  height: 0.97%;
+  width: 0.97%;
+  top: 89.33%;
+  right: 29.6%;
+  bottom: 9.7%;
+  left: 69.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon313 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 94.44%;
+  right: 29.76%;
+  bottom: 4.88%;
+  left: 69.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon314 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 29.86%;
+  bottom: -0.01%;
+  left: 69.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon315 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 24.89%;
+  bottom: 99.53%;
+  left: 74.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon316 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 4.87%;
+  right: 24.76%;
+  bottom: 94.44%;
+  left: 74.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon317 {
+  position: absolute;
+  height: 0.88%;
+  width: 0.88%;
+  top: 9.75%;
+  right: 24.67%;
+  bottom: 89.38%;
+  left: 74.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon318 {
+  position: absolute;
+  height: 1.11%;
+  width: 1.11%;
+  top: 14.62%;
+  right: 24.55%;
+  bottom: 84.27%;
+  left: 74.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon319 {
+  position: absolute;
+  height: 1.3%;
+  width: 1.29%;
+  top: 19.49%;
+  right: 24.47%;
+  bottom: 79.21%;
+  left: 74.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon320 {
+  position: absolute;
+  height: 1.52%;
+  width: 1.52%;
+  top: 24.36%;
+  right: 24.35%;
+  bottom: 74.12%;
+  left: 74.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon321 {
+  position: absolute;
+  height: 1.71%;
+  width: 1.71%;
+  top: 29.24%;
+  right: 24.26%;
+  bottom: 69.06%;
+  left: 74.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon322 {
+  position: absolute;
+  height: 1.9%;
+  width: 1.89%;
+  top: 34.11%;
+  right: 24.19%;
+  bottom: 64%;
+  left: 73.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon323 {
+  position: absolute;
+  height: 2.13%;
+  width: 2.14%;
+  top: 38.98%;
+  right: 24.04%;
+  bottom: 58.89%;
+  left: 73.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon324 {
+  position: absolute;
+  height: 2.37%;
+  width: 2.37%;
+  top: 43.85%;
+  right: 23.92%;
+  bottom: 53.78%;
+  left: 73.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon325 {
+  position: absolute;
+  height: 2.54%;
+  width: 2.54%;
+  top: 48.73%;
+  right: 23.84%;
+  bottom: 48.74%;
+  left: 73.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon326 {
+  position: absolute;
+  height: 2.37%;
+  width: 2.37%;
+  top: 53.81%;
+  right: 23.92%;
+  bottom: 43.82%;
+  left: 73.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon327 {
+  position: absolute;
+  height: 2.13%;
+  width: 2.14%;
+  top: 58.89%;
+  right: 24.04%;
+  bottom: 38.98%;
+  left: 73.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon328 {
+  position: absolute;
+  height: 1.9%;
+  width: 1.89%;
+  top: 63.97%;
+  right: 24.19%;
+  bottom: 34.13%;
+  left: 73.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon329 {
+  position: absolute;
+  height: 1.71%;
+  width: 1.71%;
+  top: 69.05%;
+  right: 24.26%;
+  bottom: 29.24%;
+  left: 74.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon330 {
+  position: absolute;
+  height: 1.52%;
+  width: 1.52%;
+  top: 74.13%;
+  right: 24.35%;
+  bottom: 24.35%;
+  left: 74.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon331 {
+  position: absolute;
+  height: 1.3%;
+  width: 1.29%;
+  top: 79.21%;
+  right: 24.47%;
+  bottom: 19.48%;
+  left: 74.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon332 {
+  position: absolute;
+  height: 1.07%;
+  width: 1.06%;
+  top: 84.29%;
+  right: 24.6%;
+  bottom: 14.64%;
+  left: 74.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon333 {
+  position: absolute;
+  height: 0.88%;
+  width: 0.88%;
+  top: 89.38%;
+  right: 24.67%;
+  bottom: 9.75%;
+  left: 74.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon334 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 94.46%;
+  right: 24.76%;
+  bottom: 4.86%;
+  left: 74.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon335 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 24.89%;
+  bottom: -0.01%;
+  left: 74.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon336 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 19.91%;
+  bottom: 99.53%;
+  left: 79.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon337 {
+  position: absolute;
+  height: 0.64%;
+  width: 0.65%;
+  top: 4.89%;
+  right: 19.8%;
+  bottom: 94.47%;
+  left: 79.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon338 {
+  position: absolute;
+  height: 0.78%;
+  width: 0.8%;
+  top: 9.79%;
+  right: 19.74%;
+  bottom: 89.43%;
+  left: 79.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon339 {
+  position: absolute;
+  height: 0.97%;
+  width: 0.97%;
+  top: 14.68%;
+  right: 19.65%;
+  bottom: 84.35%;
+  left: 79.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon340 {
+  position: absolute;
+  height: 1.11%;
+  width: 1.11%;
+  top: 19.57%;
+  right: 19.59%;
+  bottom: 79.31%;
+  left: 79.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon341 {
+  position: absolute;
+  height: 1.3%;
+  width: 1.29%;
+  top: 24.47%;
+  right: 19.5%;
+  bottom: 74.23%;
+  left: 79.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon342 {
+  position: absolute;
+  height: 1.49%;
+  width: 1.48%;
+  top: 29.36%;
+  right: 19.39%;
+  bottom: 69.15%;
+  left: 79.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon343 {
+  position: absolute;
+  height: 1.61%;
+  width: 1.63%;
+  top: 34.25%;
+  right: 19.33%;
+  bottom: 64.13%;
+  left: 79.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon344 {
+  position: absolute;
+  height: 1.8%;
+  width: 1.8%;
+  top: 39.15%;
+  right: 19.23%;
+  bottom: 59.05%;
+  left: 78.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon345 {
+  position: absolute;
+  height: 1.94%;
+  width: 1.94%;
+  top: 44.04%;
+  right: 19.18%;
+  bottom: 54.02%;
+  left: 78.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon346 {
+  position: absolute;
+  height: 2.13%;
+  width: 2.14%;
+  top: 48.94%;
+  right: 19.07%;
+  bottom: 48.93%;
+  left: 78.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon347 {
+  position: absolute;
+  height: 1.94%;
+  width: 1.94%;
+  top: 54%;
+  right: 19.18%;
+  bottom: 44.06%;
+  left: 78.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon348 {
+  position: absolute;
+  height: 1.8%;
+  width: 1.8%;
+  top: 59.06%;
+  right: 19.23%;
+  bottom: 39.14%;
+  left: 78.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon349 {
+  position: absolute;
+  height: 1.61%;
+  width: 1.63%;
+  top: 64.12%;
+  right: 19.33%;
+  bottom: 34.27%;
+  left: 79.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon350 {
+  position: absolute;
+  height: 1.49%;
+  width: 1.48%;
+  top: 69.18%;
+  right: 19.39%;
+  bottom: 29.33%;
+  left: 79.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon351 {
+  position: absolute;
+  height: 1.3%;
+  width: 1.29%;
+  top: 74.24%;
+  right: 19.5%;
+  bottom: 24.46%;
+  left: 79.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon352 {
+  position: absolute;
+  height: 1.11%;
+  width: 1.11%;
+  top: 79.3%;
+  right: 19.59%;
+  bottom: 19.59%;
+  left: 79.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon353 {
+  position: absolute;
+  height: 0.97%;
+  width: 0.97%;
+  top: 84.36%;
+  right: 19.65%;
+  bottom: 14.67%;
+  left: 79.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon354 {
+  position: absolute;
+  height: 0.78%;
+  width: 0.8%;
+  top: 89.42%;
+  right: 19.74%;
+  bottom: 9.8%;
+  left: 79.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon355 {
+  position: absolute;
+  height: 0.64%;
+  width: 0.65%;
+  top: 94.48%;
+  right: 19.8%;
+  bottom: 4.88%;
+  left: 79.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon356 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 19.91%;
+  bottom: -0.01%;
+  left: 79.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon357 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 14.93%;
+  bottom: 99.53%;
+  left: 84.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon358 {
+  position: absolute;
+  height: 0.59%;
+  width: 0.6%;
+  top: 4.91%;
+  right: 14.85%;
+  bottom: 94.49%;
+  left: 84.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon359 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 9.83%;
+  right: 14.83%;
+  bottom: 89.48%;
+  left: 84.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon360 {
+  position: absolute;
+  height: 0.83%;
+  width: 0.83%;
+  top: 14.74%;
+  right: 14.75%;
+  bottom: 84.43%;
+  left: 84.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon361 {
+  position: absolute;
+  height: 0.97%;
+  width: 0.97%;
+  top: 19.66%;
+  right: 14.67%;
+  bottom: 79.37%;
+  left: 84.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon362 {
+  position: absolute;
+  height: 1.07%;
+  width: 1.06%;
+  top: 24.57%;
+  right: 14.65%;
+  bottom: 74.36%;
+  left: 84.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon363 {
+  position: absolute;
+  height: 1.21%;
+  width: 1.2%;
+  top: 29.49%;
+  right: 14.57%;
+  bottom: 69.31%;
+  left: 84.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon364 {
+  position: absolute;
+  height: 1.35%;
+  width: 1.34%;
+  top: 34.4%;
+  right: 14.49%;
+  bottom: 64.25%;
+  left: 84.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon365 {
+  position: absolute;
+  height: 1.49%;
+  width: 1.48%;
+  top: 39.31%;
+  right: 14.41%;
+  bottom: 59.19%;
+  left: 84.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon366 {
+  position: absolute;
+  height: 1.56%;
+  width: 1.57%;
+  top: 44.23%;
+  right: 14.38%;
+  bottom: 54.21%;
+  left: 84.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon367 {
+  position: absolute;
+  height: 1.71%;
+  width: 1.71%;
+  top: 49.14%;
+  right: 14.3%;
+  bottom: 49.15%;
+  left: 83.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon368 {
+  position: absolute;
+  height: 1.56%;
+  width: 1.57%;
+  top: 54.18%;
+  right: 14.38%;
+  bottom: 44.25%;
+  left: 84.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon369 {
+  position: absolute;
+  height: 1.49%;
+  width: 1.48%;
+  top: 59.22%;
+  right: 14.41%;
+  bottom: 39.28%;
+  left: 84.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon370 {
+  position: absolute;
+  height: 1.35%;
+  width: 1.34%;
+  top: 64.26%;
+  right: 14.49%;
+  bottom: 34.39%;
+  left: 84.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon371 {
+  position: absolute;
+  height: 1.21%;
+  width: 1.2%;
+  top: 69.3%;
+  right: 14.57%;
+  bottom: 29.49%;
+  left: 84.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon372 {
+  position: absolute;
+  height: 1.07%;
+  width: 1.06%;
+  top: 74.34%;
+  right: 14.65%;
+  bottom: 24.59%;
+  left: 84.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon373 {
+  position: absolute;
+  height: 0.97%;
+  width: 0.97%;
+  top: 79.38%;
+  right: 14.67%;
+  bottom: 19.65%;
+  left: 84.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon374 {
+  position: absolute;
+  height: 0.83%;
+  width: 0.83%;
+  top: 84.42%;
+  right: 14.75%;
+  bottom: 14.75%;
+  left: 84.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon375 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 89.46%;
+  right: 14.83%;
+  bottom: 9.85%;
+  left: 84.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon376 {
+  position: absolute;
+  height: 0.59%;
+  width: 0.6%;
+  top: 94.5%;
+  right: 14.85%;
+  bottom: 4.91%;
+  left: 84.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon377 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 14.93%;
+  bottom: -0.01%;
+  left: 84.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon378 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 9.96%;
+  bottom: 99.53%;
+  left: 89.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon379 {
+  position: absolute;
+  height: 0.55%;
+  width: 0.55%;
+  top: 4.94%;
+  right: 9.91%;
+  bottom: 94.52%;
+  left: 89.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon380 {
+  position: absolute;
+  height: 0.64%;
+  width: 0.65%;
+  top: 9.87%;
+  right: 9.85%;
+  bottom: 89.49%;
+  left: 89.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon381 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 14.81%;
+  right: 9.85%;
+  bottom: 84.51%;
+  left: 89.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon382 {
+  position: absolute;
+  height: 0.78%;
+  width: 0.8%;
+  top: 19.74%;
+  right: 9.79%;
+  bottom: 79.48%;
+  left: 89.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon383 {
+  position: absolute;
+  height: 0.88%;
+  width: 0.88%;
+  top: 24.68%;
+  right: 9.74%;
+  bottom: 74.45%;
+  left: 89.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon384 {
+  position: absolute;
+  height: 0.97%;
+  width: 0.97%;
+  top: 29.61%;
+  right: 9.69%;
+  bottom: 69.42%;
+  left: 89.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon385 {
+  position: absolute;
+  height: 1.07%;
+  width: 1.06%;
+  top: 34.55%;
+  right: 9.65%;
+  bottom: 64.39%;
+  left: 89.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon386 {
+  position: absolute;
+  height: 1.11%;
+  width: 1.11%;
+  top: 39.48%;
+  right: 9.64%;
+  bottom: 59.4%;
+  left: 89.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon387 {
+  position: absolute;
+  height: 1.21%;
+  width: 1.2%;
+  top: 44.42%;
+  right: 9.59%;
+  bottom: 54.37%;
+  left: 89.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon388 {
+  position: absolute;
+  height: 1.3%;
+  width: 1.29%;
+  top: 49.35%;
+  right: 9.54%;
+  bottom: 49.34%;
+  left: 89.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon389 {
+  position: absolute;
+  height: 1.21%;
+  width: 1.2%;
+  top: 54.37%;
+  right: 9.59%;
+  bottom: 44.42%;
+  left: 89.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon390 {
+  position: absolute;
+  height: 1.11%;
+  width: 1.11%;
+  top: 59.39%;
+  right: 9.64%;
+  bottom: 39.5%;
+  left: 89.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon391 {
+  position: absolute;
+  height: 1.07%;
+  width: 1.06%;
+  top: 64.41%;
+  right: 9.65%;
+  bottom: 34.53%;
+  left: 89.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon392 {
+  position: absolute;
+  height: 0.97%;
+  width: 0.97%;
+  top: 69.43%;
+  right: 9.69%;
+  bottom: 29.6%;
+  left: 89.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon393 {
+  position: absolute;
+  height: 0.88%;
+  width: 0.88%;
+  top: 74.44%;
+  right: 9.74%;
+  bottom: 24.68%;
+  left: 89.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon394 {
+  position: absolute;
+  height: 0.78%;
+  width: 0.8%;
+  top: 79.46%;
+  right: 9.79%;
+  bottom: 19.76%;
+  left: 89.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon395 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 84.48%;
+  right: 9.85%;
+  bottom: 14.83%;
+  left: 89.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon396 {
+  position: absolute;
+  height: 0.64%;
+  width: 0.65%;
+  top: 89.5%;
+  right: 9.85%;
+  bottom: 9.86%;
+  left: 89.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon397 {
+  position: absolute;
+  height: 0.55%;
+  width: 0.55%;
+  top: 94.52%;
+  right: 9.91%;
+  bottom: 4.94%;
+  left: 89.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon398 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 9.96%;
+  bottom: -0.01%;
+  left: 89.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon399 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 4.98%;
+  bottom: 99.53%;
+  left: 94.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon400 {
+  position: absolute;
+  height: 0.5%;
+  width: 0.51%;
+  top: 4.96%;
+  right: 4.95%;
+  bottom: 94.55%;
+  left: 94.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon401 {
+  position: absolute;
+  height: 0.55%;
+  width: 0.55%;
+  top: 9.91%;
+  right: 4.93%;
+  bottom: 89.54%;
+  left: 94.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon402 {
+  position: absolute;
+  height: 0.59%;
+  width: 0.6%;
+  top: 14.87%;
+  right: 4.9%;
+  bottom: 84.54%;
+  left: 94.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon403 {
+  position: absolute;
+  height: 0.64%;
+  width: 0.65%;
+  top: 19.82%;
+  right: 4.87%;
+  bottom: 79.54%;
+  left: 94.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon404 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 24.78%;
+  right: 4.85%;
+  bottom: 74.53%;
+  left: 94.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon405 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 29.74%;
+  right: 4.88%;
+  bottom: 69.58%;
+  left: 94.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon406 {
+  position: absolute;
+  height: 0.73%;
+  width: 0.74%;
+  top: 34.69%;
+  right: 4.84%;
+  bottom: 64.57%;
+  left: 94.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon407 {
+  position: absolute;
+  height: 0.78%;
+  width: 0.8%;
+  top: 39.65%;
+  right: 4.81%;
+  bottom: 59.57%;
+  left: 94.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon408 {
+  position: absolute;
+  height: 0.83%;
+  width: 0.83%;
+  top: 44.6%;
+  right: 4.8%;
+  bottom: 54.57%;
+  left: 94.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon409 {
+  position: absolute;
+  height: 0.88%;
+  width: 0.88%;
+  top: 49.56%;
+  right: 4.76%;
+  bottom: 49.56%;
+  left: 94.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon410 {
+  position: absolute;
+  height: 0.83%;
+  width: 0.83%;
+  top: 54.56%;
+  right: 4.8%;
+  bottom: 44.61%;
+  left: 94.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon411 {
+  position: absolute;
+  height: 0.78%;
+  width: 0.8%;
+  top: 59.56%;
+  right: 4.81%;
+  bottom: 39.66%;
+  left: 94.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon412 {
+  position: absolute;
+  height: 0.73%;
+  width: 0.74%;
+  top: 64.55%;
+  right: 4.84%;
+  bottom: 34.71%;
+  left: 94.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon413 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 69.55%;
+  right: 4.88%;
+  bottom: 29.76%;
+  left: 94.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon414 {
+  position: absolute;
+  height: 0.69%;
+  width: 0.69%;
+  top: 74.55%;
+  right: 4.85%;
+  bottom: 24.76%;
+  left: 94.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon415 {
+  position: absolute;
+  height: 0.64%;
+  width: 0.65%;
+  top: 79.55%;
+  right: 4.87%;
+  bottom: 19.81%;
+  left: 94.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon416 {
+  position: absolute;
+  height: 0.59%;
+  width: 0.6%;
+  top: 84.54%;
+  right: 4.9%;
+  bottom: 14.86%;
+  left: 94.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon417 {
+  position: absolute;
+  height: 0.55%;
+  width: 0.55%;
+  top: 89.54%;
+  right: 4.93%;
+  bottom: 9.91%;
+  left: 94.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon418 {
+  position: absolute;
+  height: 0.5%;
+  width: 0.51%;
+  top: 94.54%;
+  right: 4.95%;
+  bottom: 4.96%;
+  left: 94.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon419 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 4.98%;
+  bottom: -0.01%;
+  left: 94.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon420 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 0%;
+  right: 0%;
+  bottom: 99.53%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon421 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 4.98%;
+  right: 0%;
+  bottom: 94.55%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon422 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 9.95%;
+  right: 0%;
+  bottom: 89.57%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon423 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 14.93%;
+  right: 0%;
+  bottom: 84.6%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon424 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 19.91%;
+  right: 0%;
+  bottom: 79.62%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon425 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 24.88%;
+  right: 0%;
+  bottom: 74.64%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon426 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 29.86%;
+  right: 0%;
+  bottom: 69.66%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon427 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 34.84%;
+  right: 0%;
+  bottom: 64.69%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon428 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 39.81%;
+  right: 0%;
+  bottom: 59.71%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon429 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 44.79%;
+  right: 0%;
+  bottom: 54.73%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon430 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 49.77%;
+  right: 0%;
+  bottom: 49.76%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon431 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 54.75%;
+  right: 0%;
+  bottom: 44.78%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon432 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 59.72%;
+  right: 0%;
+  bottom: 39.8%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon433 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 64.7%;
+  right: 0%;
+  bottom: 34.83%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon434 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 69.68%;
+  right: 0%;
+  bottom: 29.85%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon435 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 74.65%;
+  right: 0%;
+  bottom: 24.87%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon436 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 79.63%;
+  right: 0%;
+  bottom: 19.9%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon437 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 84.61%;
+  right: 0%;
+  bottom: 14.92%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon438 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 89.58%;
+  right: 0%;
+  bottom: 9.94%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon439 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 94.56%;
+  right: 0%;
+  bottom: 4.97%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon440 {
+  position: absolute;
+  height: 0.47%;
+  width: 0.46%;
+  top: 99.54%;
+  right: 0%;
+  bottom: -0.01%;
+  left: 99.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.our-mission {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 26px;
+}
+.our-mission-wrapper {
+  width: 144px;
+  border-radius: 28px;
+  background-color: #fff;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 16px;
+  box-sizing: border-box;
+}
+.to-bridge-the {
+  align-self: stretch;
+  position: relative;
+  font-size: 32px;
+  letter-spacing: -0.02em;
+  line-height: 36px;
+  font-weight: 500;
+  color: #fff;
+}
+.frame-parent4 {
+  position: absolute;
+  top: calc(50% - 89px);
+  left: 24px;
+  width: 518px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.artboard-2halftone {
+  position: absolute;
+  top: calc(50% - 210.5px);
+  left: calc(50% - 283px);
+  width: 566px;
+  height: 422px;
+  overflow: hidden;
+}
+.artboard-2halftone-wrapper {
+  width: 600px;
+  position: relative;
+  border-radius: 12px;
+  background-color: #01cd22;
+  height: 423px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-child21 {
+  position: absolute;
+  top: calc(50% - 59.5px);
+  left: calc(50% - 60px);
+  border-radius: 50%;
+  background-color: #01cd22;
+  width: 120px;
+  height: 120px;
+}
+.ellipse-icon {
+  position: absolute;
+  top: calc(50% - 120.5px);
+  left: calc(50% - 189px);
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.logo {
+  position: absolute;
+  top: 198px;
+  left: 271px;
+  letter-spacing: -0.02em;
+  line-height: 28px;
+  font-weight: 600;
+}
+.frame-child22 {
+  position: absolute;
+  top: calc(50% + 8.5px);
+  left: calc(50% - 189px);
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.frame-child23 {
+  position: absolute;
+  top: calc(50% + 8.5px);
+  left: calc(50% + 109px);
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.frame-child24 {
+  position: absolute;
+  top: calc(50% - 120.5px);
+  left: calc(50% + 97px);
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.frame-child25 {
+  position: absolute;
+  top: calc(50% + 95.5px);
+  left: calc(50% - 40px);
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.frame-child26 {
+  position: absolute;
+  top: calc(50% - 174.5px);
+  left: calc(50% - 40px);
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.ellipse-group {
+  width: 600px;
+  position: relative;
+  border-radius: 12px;
+  background-color: #ccf5d3;
+  height: 423px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 22px;
+  color: #fff;
+}
+.frame-parent3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 40px;
+  font-size: 18px;
+}
+.frame-parent2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 60px;
+}
+.landing-page-v2-child {
+  position: absolute;
+  top: 969px;
+  left: calc(50% - 720px);
+  background-color: #fff;
+  width: 1440px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 100px 60px;
+  box-sizing: border-box;
+}
+.frame-child27 {
+  width: 152px;
+  position: relative;
+  height: 42px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.linkedinlogo-icon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.linkedinlogo-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.frame-parent5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.landing-page-v2-inner1 {
+  position: absolute;
+  top: 4860px;
+  left: calc(50% - 720px);
+  background-color: #01cd22;
+  width: 1440px;
+  height: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 100px;
+  box-sizing: border-box;
+  font-size: 18px;
+  color: #fff;
+}
+.landing-page-v2 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 4945px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 32px;
+  color: #343d3e;
+  font-family: 'Bricolage Grotesque';
+}
+
