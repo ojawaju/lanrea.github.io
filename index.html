@@ -13,7 +13,7 @@
 </head>
 <body>
   	
-  	<div class="landing-page-v2">
+  	<div id="home" class="landing-page-v2">
     		<div class="background-pattern-parent">
       			<img class="background-pattern-icon" alt="" src="assets/Background pattern.svg">
       			
@@ -35,23 +35,30 @@
           					
           					<div class="links">
             						<div class="nav-item">
-              							<div class="label">Home</div>
+              							<div id="tab-home" class="label">Home</div>
             						</div>
             						<div class="nav-item1">
-              							<div class="label">About us</div>
+              							<div id="tab-about-us" class="label">About us</div>
             						</div>
             						<div class="nav-item1">
-              							<div class="label">Features</div>
+              							<div id="tab-features" class="label">Features</div>
             						</div>
             						<div class="nav-item1">
-              							<div class="label">Testimonials</div>
+              							<div id="tab-testimonials" class="label">Testimonials</div>
             						</div>
-            						<div class="nav-item1">
+            						<!-- <div class="nav-item1">
               							<div class="label">Subscribe</div>
-            						</div>
+            						</div> -->
           					</div>
-          					<div class="button-primary-parent">
-            						<div class="button-primary">
+				
+          					<div id="button-subscribe" class="button-primary-parent">
+								<div class="button-primary">
+									<div class="label-container">
+										  <b class="label5">Subscribe</b>
+									</div>
+							  </div>
+								
+            						<!-- <div class="button-primary">
               							<div class="label-container">
                 								<b class="label5">Get andriod app</b>
               							</div>
@@ -60,17 +67,23 @@
               							<div class="label-container">
                 								<b class="label5">Get ios app</b>
               							</div>
-            						</div>
+            						</div> -->
           					</div>
         				</div>
       			</div>
+				
       			<div class="frame-group">
         				<div class="rediscover-your-heritage-righ-parent">
           					<b class="rediscover-your-heritage">Rediscover Your Heritage, Right Where You Are</b>
           					<div class="ojawaju-is-the">Ojawaju is the premier platform designed to help Africans in the diaspora reconnect with their roots, culture, and community. Whether you're looking to meet like-minded individuals, discover cultural events, or support Black-owned businesses.</div>
         				</div>
-        				<div class="button-primary-group">
-          					<div class="button-primary2">
+        				<div id="button-join-waitlist" class="button-primary-group">
+							<div  class="button-primary2">
+								<div class="label-container">
+									  <b class="label5">Join The Waitlist</b>
+								</div>
+						  </div>
+          					<!-- <div class="button-primary2">
             						<div class="label-container">
               							<b class="label5">Get andriod app</b>
             						</div>
@@ -79,11 +92,12 @@
             						<div class="label-container">
               							<b class="label5">Get ios app</b>
             						</div>
-          					</div>
+          					</div> -->
         				</div>
+						
       			</div>
     		</div>
-    		<div class="link-and-sync">
+    		<div id="newsletter" class="link-and-sync">
       			<div class="ellipse-parent"> 
         				<div class="ellipse-div">
         				</div>
@@ -128,11 +142,27 @@
               							<div class="dont-miss-out">Don’t miss out on unlocking the full experience of reconnecting with your roots. Whether you're looking to discover local events, meet new friends, or support Black-owned businesses,</div>
             						</div>
           					</div>
-          					<div class="button-primary4">
-            						<div class="label-container">
-              							<b class="adeniran-adetunji">Subscribe</b>
-            						</div>
-          					</div>
+							
+							  <div class="subscribe-section">
+								<form id="subscribe-form" action="https://ojawaju.us11.list-manage.com/subscribe/post?u=52d002d488de0a619ad745ab1&amp;id=4c25b78398&amp;f_id=00b318e0f0" method="post" name="mc-embedded-subscribe-form" target="_self" novalidate>
+									<input type="email" id="email" name="EMAIL" placeholder="Enter your email" required>
+									<button type="submit" id="mc-embedded-subscribe">Subscribe</button>
+									<p id="error-message" style="color: red; display: none;">Please enter a valid email address.</p>
+									
+									<!-- Hidden field for Mailchimp bot protection -->
+									<div aria-hidden="true" style="position: absolute; left: -5000px;">
+										<input type="text" name="b_52d002d488de0a619ad745ab1_4c25b78398" tabindex="-1" value="">
+									</div>
+							
+									<!-- Mailchimp response messages -->
+									<div id="mce-responses" style="clear: both;">
+										<div class="response" id="mce-error-response" style="display:none;"></div>
+										<div class="response" id="mce-success-response" style="display:none;"></div>
+									</div>
+								</form>
+							</div>
+							  
+          					
         				</div>
         				<img class="frame-child18" alt="" src="assets/Star 6.svg">
         				
@@ -164,7 +194,7 @@
     		</div>
     		<div class="landing-page-v2-inner">
       			<div class="features-parent">
-        				<div class="features">Features</div>
+        				<div id="features" class="features">Features</div>
         				<div class="frame-div">
           					<div class="frame-parent1">
             						<div class="component-1-parent">
@@ -257,7 +287,7 @@
         				</div>
       			</div>
       			<div class="testimonials-parent">
-        				<div class="testimonials">Testimonials</div>
+        				<div id="testimonials" class="testimonials">Testimonials</div>
         				<div class="divframer-w4oopl">
           					<div class="divframer-f8vz9g">
             						<div class="divframer-1p3dbrp-container">
@@ -704,228 +734,120 @@
     		<div class="landing-page-v2-child">
       			<div class="frame-parent2">
         				<div class="about-us-parent">
-          					<div class="features">About Us</div>
+          					<div id="about-us" class="features">About Us</div>
           					<div class="at-ojawaju-we">At Ojawaju, we are passionate about reconnecting Africans in the diaspora with their roots, culture, and community. Our platform is designed to help you feel at home no matter where you are, by connecting you to local African communities, cultural events, and businesses that share your heritage.</div>
         				</div>
         				<div class="frame-parent3">
           					<div class="artboard-2halftone-wrapper">
             						<div class="artboard-2halftone">
               							<img class="icon" alt="" src="assets/2.svg">
-              							
               							<img class="icon1" alt="" src="assets/2.svg">
-              							
               							<img class="icon2" alt="" src="assets/2.svg">
-              							
               							<img class="icon3" alt="" src="assets/2.svg">
-              							
               							<img class="icon4" alt="" src="assets/2.svg">
-              							
               							<img class="icon5" alt="" src="assets/2.svg">
-              							
               							<img class="icon6" alt="" src="assets/2.svg">
-              							
               							<img class="icon7" alt="" src="assets/2.svg">
-              							
               							<img class="icon8" alt="" src="assets/2.svg">
-              							
               							<img class="icon9" alt="" src="assets/2.svg">
-              							
               							<img class="icon10" alt="" src="assets/2.svg">
-              							
               							<img class="icon11" alt="" src="assets/2.svg">
-              							
               							<img class="icon12" alt="" src="assets/2.svg">
-              							
               							<img class="icon13" alt="" src="assets/2.svg">
-              							
               							<img class="icon14" alt="" src="assets/2.svg">
-              							
               							<img class="icon15" alt="" src="assets/2.svg">
-              							
               							<img class="icon16" alt="" src="assets/2.svg">
-              							
               							<img class="icon17" alt="" src="assets/2.svg">
-              							
               							<img class="icon18" alt="" src="assets/2.svg">
-              							
               							<img class="icon19" alt="" src="assets/2.svg">
-              							
               							<img class="icon20" alt="" src="assets/2.svg">
-              							
               							<img class="icon21" alt="" src="assets/2.svg">
-              							
               							<img class="icon22" alt="" src="assets/2.svg">
-              							
               							<img class="icon23" alt="" src="assets/2.svg">
-              							
               							<img class="icon24" alt="" src="assets/2.svg">
-              							
               							<img class="icon25" alt="" src="assets/2.svg">
-              							
               							<img class="icon26" alt="" src="assets/2.svg">
-              							
               							<img class="icon27" alt="" src="assets/2.svg">
-              							
               							<img class="icon28" alt="" src="assets/2.svg">
-              							
               							<img class="icon29" alt="" src="assets/2.svg">
-              							
               							<img class="icon30" alt="" src="assets/2.svg">
-              							
               							<img class="icon31" alt="" src="assets/2.svg">
-              							
               							<img class="icon32" alt="" src="assets/2.svg">
-              							
               							<img class="icon33" alt="" src="assets/2.svg">
-              							
               							<img class="icon34" alt="" src="assets/2.svg">
-              							
               							<img class="icon35" alt="" src="assets/2.svg">
-              							
               							<img class="icon36" alt="" src="assets/2.svg">
-              							
               							<img class="icon37" alt="" src="assets/2.svg">
-              							
               							<img class="icon38" alt="" src="assets/2.svg">
-              							
               							<img class="icon39" alt="" src="assets/2.svg">
-              							
               							<img class="icon40" alt="" src="assets/2.svg">
-              							
               							<img class="icon41" alt="" src="assets/2.svg">
-              							
               							<img class="icon42" alt="" src="assets/2.svg">
-              							
               							<img class="icon43" alt="" src="assets/2.svg">
-              							
               							<img class="icon44" alt="" src="assets/2.svg">
-              							
               							<img class="icon45" alt="" src="assets/2.svg">
-              							
               							<img class="icon46" alt="" src="assets/2.svg">
-              							
               							<img class="icon47" alt="" src="assets/2.svg">
-              							
               							<img class="icon48" alt="" src="assets/2.svg">
-              							
               							<img class="icon49" alt="" src="assets/2.svg">
-              							
               							<img class="icon50" alt="" src="assets/2.svg">
-              							
               							<img class="icon51" alt="" src="assets/2.svg">
-              							
               							<img class="icon52" alt="" src="assets/2.svg">
-              							
               							<img class="icon53" alt="" src="assets/2.svg">
-              							
               							<img class="icon54" alt="" src="assets/2.svg">
-              							
               							<img class="icon55" alt="" src="assets/2.svg">
-              							
               							<img class="icon56" alt="" src="assets/2.svg">
-              							
               							<img class="icon57" alt="" src="assets/2.svg">
-              							
               							<img class="icon58" alt="" src="assets/2.svg">
-              							
               							<img class="icon59" alt="" src="assets/2.svg">
-              							
               							<img class="icon60" alt="" src="assets/2.svg">
-              							
               							<img class="icon61" alt="" src="assets/2.svg">
-              							
               							<img class="icon62" alt="" src="assets/2.svg">
-              							
               							<img class="icon63" alt="" src="assets/2.svg">
-              							
               							<img class="icon64" alt="" src="assets/2.svg">
-              							
               							<img class="icon65" alt="" src="assets/2.svg">
-              							
               							<img class="icon66" alt="" src="assets/2.svg">
-              							
               							<img class="icon67" alt="" src="assets/2.svg">
-              							
               							<img class="icon68" alt="" src="assets/2.svg">
-              							
               							<img class="icon69" alt="" src="assets/2.svg">
-              							
               							<img class="icon70" alt="" src="assets/2.svg">
-              							
               							<img class="icon71" alt="" src="assets/2.svg">
-              							
               							<img class="icon72" alt="" src="assets/2.svg">
-              							
               							<img class="icon73" alt="" src="assets/2.svg">
-              							
               							<img class="icon74" alt="" src="assets/2.svg">
-              							
               							<img class="icon75" alt="" src="assets/2.svg">
-              							
               							<img class="icon76" alt="" src="assets/2.svg">
-              							
               							<img class="icon77" alt="" src="assets/2.svg">
-              							
               							<img class="icon78" alt="" src="assets/2.svg">
-              							
               							<img class="icon79" alt="" src="assets/2.svg">
-              							
               							<img class="icon80" alt="" src="assets/2.svg">
-              							
               							<img class="icon81" alt="" src="assets/2.svg">
-              							
               							<img class="icon82" alt="" src="assets/2.svg">
-              							
               							<img class="icon83" alt="" src="assets/2.svg">
-              							
               							<img class="icon84" alt="" src="assets/2.svg">
-              							
               							<img class="icon85" alt="" src="assets/2.svg">
-              							
               							<img class="icon86" alt="" src="assets/2.svg">
-              							
               							<img class="icon87" alt="" src="assets/2.svg">
-              							
               							<img class="icon88" alt="" src="assets/2.svg">
-              							
               							<img class="icon89" alt="" src="assets/2.svg">
-              							
               							<img class="icon90" alt="" src="assets/2.svg">
-              							
               							<img class="icon91" alt="" src="assets/2.svg">
-              							
               							<img class="icon92" alt="" src="assets/2.svg">
-              							
               							<img class="icon93" alt="" src="assets/2.svg">
-              							
               							<img class="icon94" alt="" src="assets/2.svg">
-              							
               							<img class="icon95" alt="" src="assets/2.svg">
-              							
               							<img class="icon96" alt="" src="assets/2.svg">
-              							
               							<img class="icon97" alt="" src="assets/2.svg">
-              							
               							<img class="icon98" alt="" src="assets/2.svg">
-              							
               							<img class="icon99" alt="" src="assets/2.svg">
-              							
               							<img class="icon100" alt="" src="assets/2.svg">
-              							
               							<img class="icon101" alt="" src="assets/2.svg">
-              							
               							<img class="icon102" alt="" src="assets/2.svg">
-              							
               							<img class="icon103" alt="" src="assets/2.svg">
-              							
               							<img class="icon104" alt="" src="assets/2.svg">
-              							
               							<img class="icon105" alt="" src="assets/2.svg">
-              							
               							<img class="icon106" alt="" src="assets/2.svg">
-              							
               							<img class="icon107" alt="" src="assets/2.svg">
-              							
               							<img class="icon108" alt="" src="assets/2.svg">
               							
               							<img class="icon109" alt="" src="assets/2.svg">
@@ -1549,47 +1471,26 @@
               							<img class="icon418" alt="" src="assets/2.svg">
               							
               							<img class="icon419" alt="" src="assets/2.svg">
-              							
               							<img class="icon420" alt="" src="assets/2.svg">
-              							
               							<img class="icon421" alt="" src="assets/2.svg">
-              							
               							<img class="icon422" alt="" src="assets/2.svg">
-              							
               							<img class="icon423" alt="" src="assets/2.svg">
-              							
               							<img class="icon424" alt="" src="assets/2.svg">
-              							
               							<img class="icon425" alt="" src="assets/2.svg">
-              							
               							<img class="icon426" alt="" src="assets/2.svg">
-              							
               							<img class="icon427" alt="" src="assets/2.svg">
-              							
               							<img class="icon428" alt="" src="assets/2.svg">
-              							
               							<img class="icon429" alt="" src="assets/2.svg">
-              							
               							<img class="icon430" alt="" src="assets/2.svg">
-              							
               							<img class="icon431" alt="" src="assets/2.svg">
-              							
               							<img class="icon432" alt="" src="assets/2.svg">
-              							
               							<img class="icon433" alt="" src="assets/2.svg">
-              							
               							<img class="icon434" alt="" src="assets/2.svg">
-              							
               							<img class="icon435" alt="" src="assets/2.svg">
-              							
               							<img class="icon436" alt="" src="assets/2.svg">
-              							
               							<img class="icon437" alt="" src="assets/2.svg">
-              							
               							<img class="icon438" alt="" src="assets/2.svg">
-              							
               							<img class="icon439" alt="" src="assets/2.svg">
-              							
               							<img class="icon440" alt="" src="assets/2.svg">
               							
               							<div class="frame-parent4">
@@ -1604,43 +1505,36 @@
             						<div class="frame-child21">
             						</div>
             						<img class="ellipse-icon" alt="" src="assets/Ellipse 44.svg">
-            						
             						<div class="logo">LOGO</div>
             						<img class="frame-child22" alt="" src="assets/Ellipse 50.svg">
-            						
             						<img class="frame-child23" alt="" src="assets/Ellipse 53.svg">
-            						
             						<img class="frame-child24" alt="" src="assets/Ellipse 52.svg">
-            						
             						<img class="frame-child25" alt="" src="assets/Ellipse 51.svg">
-            						
             						<img class="frame-child26" alt="" src="assets/Ellipse 45.svg">
             						
           					</div>
         				</div>
       			</div>
     		</div>
-    		<div class="landing-page-v2-inner1">
-      			<div class="frame-parent5">
-        				<img class="frame-child27" alt="" src="assets/Frame 2147223506.png">
-        				
-        				<div class="our-mission">© 2024 All rights reserved. Ojawaju LLC.</div>
-        				<div class="linkedinlogo-parent">
-          					<img class="linkedinlogo-icon" alt="" src="assets/LinkedinLogo.svg">
-          					
-          					<img class="linkedinlogo-icon" alt="" src="assets/XLogo.svg">
-          					
-          					<img class="linkedinlogo-icon" alt="" src="assets/InstagramLogo.svg">
-          					
-          					<img class="linkedinlogo-icon" alt="" src="assets/FacebookLogo.svg">
-          					
-        				</div>
-      			</div>
-    		</div>
-  	</div>
-  	
-  	
-  	
-  	
+    		<footer class="landing-page-v2-inner1">
+				<div class="frame-parent5">
+				  <img class="frame-child27" alt="" src="assets/Frame 2147223506.png">
+				  <div class="our-mission">© 2024 All rights reserved. Ojawaju LLC.</div>
+		
+				  <div class="linkedinlogo-parent">
+					<!-- <img class="linkedinlogo-icon" alt="LinkedIn" src="assets/LinkedinLogo.svg"> -->
+					<!-- <img class="linkedinlogo-icon" alt="X" src="assets/XLogo.svg"> -->
+					<img class="linkedinlogo-icon" alt="Instagram" src="assets/InstagramLogo.svg">
+					<!-- <img class="linkedinlogo-icon" alt="Facebook" src="assets/FacebookLogo.svg"> -->
+				  </div>
+				  
+				</div>
+				<div class="footer-links">
+					<a href="terms.html">Terms and Conditions</a> | <a href="contact.html">Contact Us</a>
+				</div>
+				</footer>
+				
+  			</div>
+  	<script src="scripts.js"></script>
 </body>
 </html>
