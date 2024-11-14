@@ -7180,3 +7180,90 @@ button:hover {
   justify-content: center;
   align-items: center;
 }
+
+/* Hide navigation tabs on mobile */
+@media (max-width: 768px) {
+  .links {
+    display: none;
+  }
+
+  .header .content {
+    justify-content: center;
+  }
+}
+
+/* Make media within content responsive */
+@media (max-width: 768px) {
+  .frame-parent img, .component-1 img {
+    max-width: 100%;
+    height: auto; 
+  }
+
+  .frame-parent, .frame-group, .component-1-parent {
+    width: 100%;
+    padding: 0 10px; 
+  }
+
+  .ojawaju-is-the, .rediscover-your-heritage {
+    text-align: center; 
+  }
+}
+
+/* Responsive adjustments for header and navigation */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+  }
+
+  .content {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .links {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .button-primary-parent {
+    margin-top: 10px;
+  }
+}
+
+/* Main content and image adjustments */
+@media (max-width: 768px) {
+  .frame-parent, .frame-group, .component-1-parent {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 20px;
+  }
+
+  .component-1 {
+    width: 100%;
+    max-width: 300px; 
+    margin-bottom: 20px;
+  }
+
+  .ojawaju-is-the {
+    width: 100%;
+    max-width: 300px; 
+    font-size: 16px;
+    text-align: center;
+  }
+
+  .subscribe-section {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  #email, button {
+    width: 100%;
+    max-width: 280px; 
+    margin-bottom: 10px;
+  }
+}
