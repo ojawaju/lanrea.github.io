@@ -1,106 +1,82 @@
-// script.js
-// script.js
-document.addEventListener("DOMContentLoaded", function () {
-  const navToggle = document.querySelector(".navbar-toggle");
-  const navLinks = document.querySelector(".nav-links");
+document.addEventListener('DOMContentLoaded', function () {
+  const menuToggle = document.querySelector('.menu-toggle');
+  const mobileMenu = document.querySelector('.mobile-menu');
+  const menuClose = document.querySelector('.menu-close');
+  const mobileNavLinks = document.querySelectorAll('.mobile-nav-links li a');
+  const joinWaitlistButtons = document.querySelectorAll('.cta-button, .mobile-cta-button, .cta-button3');
 
-  navToggle.addEventListener("click", function () {
-      navLinks.classList.toggle("active");
+  // Open mobile menu
+  menuToggle.addEventListener('click', () => {
+    mobileMenu.style.display = 'flex';
+  });
+
+  // Close mobile menu
+  menuClose.addEventListener('click', () => {
+    mobileMenu.style.display = 'none';
+  });
+
+  // Smooth scroll to sections when clicking menu links
+  mobileNavLinks.forEach(link => {
+    link.addEventListener('click', function (event) {
+      event.preventDefault();
+      const targetId = this.getAttribute('href').slice(1);
+      const targetSection = document.getElementById(targetId);
+
+      if (targetSection) {
+        targetSection.scrollIntoView({ behavior: 'smooth' });
+
+        // Close the menu after navigating
+        mobileMenu.style.display = 'none';
+      }
+    });
+  });
+
+  // Smooth scroll to the footer section when clicking "Join Waitlist" buttons
+  joinWaitlistButtons.forEach(button => {
+    button.addEventListener('click', function () {
+      const footerSection = document.getElementById('newsletter');
+
+      if (footerSection) {
+        footerSection.scrollIntoView({ behavior: 'smooth' });
+      }
+    });
   });
 });
 
-
-
-document.getElementById('tab-home').addEventListener('click', function() {
-  document.getElementById('home').scrollIntoView({ behavior: 'smooth' });
-});
-
-document.getElementById('tab-about-us').addEventListener('click', function() {
-  document.getElementById('about-us').scrollIntoView({ behavior: 'smooth' });
-});
-
-document.getElementById('tab-features').addEventListener('click', function() {
-  document.getElementById('features').scrollIntoView({ behavior: 'smooth' });
-});
-
-document.getElementById('tab-testimonials').addEventListener('click', function() {
-  document.getElementById('testimonials').scrollIntoView({ behavior: 'smooth' });
-});
-
-document.getElementById('button-join-waitlist').addEventListener('click', function() {
-  document.getElementById('newsletter').scrollIntoView({ behavior: 'smooth' });
-});
-
-document.getElementById('button-subscribe').addEventListener('click', function() {
-  document.getElementById('newsletter').scrollIntoView({ behavior: 'smooth' });
-});
-
-document.getElementById('subscribe-form').addEventListener('submit', function(event) {
+// Subscription form validation and success handling
+document.getElementById('subscribe-form').addEventListener('submit', function (event) {
   event.preventDefault();
-  const email = document.getElementById('email').value;
+
+  const email = document.getElementById('email').value.trim();
   const errorMessage = document.getElementById('error-message');
   const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
+  // Validate email address
   if (emailPattern.test(email)) {
     errorMessage.style.display = 'none';
-    alert('Subscription successful!');
-    // You can add your form submission logic here
+
+    // Simulate successful subscription
+    setTimeout(() => {
+      alert('Subscription successful! Thank you for subscribing.');
+    }, 500);
+
+    // Clear email field
+    document.getElementById('email').value = '';
   } else {
     errorMessage.style.display = 'block';
+    errorMessage.textContent = 'Please enter a valid email address.';
   }
 });
 
-document.getElementById('subscribe-form').addEventListener('submit', function(event) {
-  event.preventDefault();
-  const email = document.getElementById('email').value;
-  const errorMessage = document.getElementById('error-message');
-  const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+// Desktop navigation smooth scrolling
+document.querySelectorAll('.nav-links li a').forEach(link => {
+  link.addEventListener('click', function (event) {
+    event.preventDefault();
+    const targetId = this.getAttribute('href').slice(1);
+    const targetSection = document.getElementById(targetId);
 
-  if (emailPattern.test(email)) {
-      errorMessage.style.display = 'none';
-
-      // Submit the form if email is valid
-      this.submit();
-
-      // Listen for Mailchimp responses
-      document.getElementById("mce-error-response").addEventListener("DOMSubtreeModified", function() {
-          if (this.textContent.trim()) {
-              errorMessage.style.display = 'block';
-              errorMessage.textContent = 'There was an issue with your subscription. Please try again.';
-          }
-      });
-
-      document.getElementById("mce-success-response").addEventListener("DOMSubtreeModified", function() {
-          if (this.textContent.trim()) {
-              errorMessage.style.display = 'none';
-              alert('Subscription successful!');
-          }
-      });
-  } else {
-      errorMessage.style.display = 'block';
-      errorMessage.textContent = 'Please enter a valid email address.';
-  }
-});
-
-window.addEventListener('scroll', function() {
-  const header = document.querySelector('.header');
-  const headerTop = header.offsetTop;
-
-  if (window.pageYOffset > headerTop) {
-    header.classList.add('fixed');
-  } else {
-    header.classList.remove('fixed');
-  }
-});
-
-// Function to scroll to a section with an offset
-function scrollToSection(sectionId) {
-  const headerHeight = document.querySelector('.header').offsetHeight;
-  const section = document.getElementById(sectionId);
-  const sectionTop = section.offsetTop - headerHeight;
-
-  window.scrollTo({
-    top: sectionTop,
-    behavior: 'smooth'
+    if (targetSection) {
+      targetSection.scrollIntoView({ behavior: 'smooth' });
+    }
   });
-}
+});
