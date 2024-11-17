@@ -458,13 +458,12 @@ body.scrolled .header {
 }
 
 /* Circular Images */
-/* Circular Images */
 .circle-image {
   position: absolute;
   top: 50%;
   left: 50%;
   transform-origin: center center;
-  transform: translate(-50%, -50%) rotate(var(--angle)) translate(100px);
+  transform: translate(-50%, -50%) rotate(var(--angle)) translate(100px) rotate(calc(-1 * var(--angle)));
   width: 50px;
   height: 50px;
   border-radius: 50%;
@@ -494,7 +493,7 @@ body.scrolled .header {
   }
 
   .circle-image {
-    transform: translate(-50%, -50%) rotate(var(--angle)) translate(100px);
+    transform: translate(-50%, -50%) rotate(var(--angle)) translate(100px) rotate(calc(-1 * var(--angle)));
     width: 50px;
     height: 50px;
   }
@@ -535,7 +534,7 @@ body.scrolled .header {
 
 .feature-card h3 {
   font-size: 1.5rem;
-  color: #01cd22;
+  color: black;
   margin-bottom: 1rem;
 }
 
@@ -862,7 +861,7 @@ body.scrolled .header {
   font-size: 1rem;
   border: 1px solid #ccc;
   border-radius: 24px;
-  width: 300px;
+  width: 200px;
   outline: none;
   transition: border-color 0.3s ease-in-out;
 }
