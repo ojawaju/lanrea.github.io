@@ -7,10 +7,6 @@ body, html {
   overflow-x: hidden;
 }
 
-body {
-  font-family: 'Satoshi', sans-serif;
-}
-
 body.scrolled .header {
   position: fixed; /* Switch to fixed on scroll */
   top: 0;
